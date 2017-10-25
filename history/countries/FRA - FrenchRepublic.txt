@@ -91,11 +91,6 @@ set_politics = {
 	elections_allowed = no
 }
 
-create_faction = 
-
-add_to_faction = 
-
-
 
 add_ideas = { 
 	#medium_economy
