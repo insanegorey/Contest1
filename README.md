@@ -1,6 +1,7 @@
 # Contest1
 The First Contest
 
+
 Country Checklist: (Obvy. credit to Muller, the guy who made the wiki on our subreddit)
 
 To make things more understandable, I'll follow every step with an example. The example country I'll be creating is Transylvania (a region in the west of modern day Romania).
