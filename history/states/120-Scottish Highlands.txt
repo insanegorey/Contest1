@@ -13,8 +13,8 @@ state= {
 
 	history=
 	{
-		owner = ENG
-		add_core_of = ENG
+		owner = 
+		add_core_of =
 		victory_points = { 11064 1 }
 		buildings = {
 			infrastructure = 4
