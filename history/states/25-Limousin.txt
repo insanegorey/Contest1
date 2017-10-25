@@ -7,10 +7,10 @@ state = {
 
 	state_category = large_town
 	history={
-		owner = TAG
-		add_claim_by = TAG
+		owner = FRA
+		add_claim_by = FRA
 		 
-		add_core_of = TAG
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 5
 		}
