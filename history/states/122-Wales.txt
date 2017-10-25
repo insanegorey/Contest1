@@ -12,8 +12,8 @@ state = {
 
 	history=
 	{
-		owner = TAG
-		add_core_of = TAG
+		owner = ENG
+		add_core_of = ENG
 		victory_points = { 377 5 }
 		buildings = {
 			infrastructure = 5
