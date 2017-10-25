@@ -63,7 +63,7 @@ ideologies = {
 
 	}
 
-		radical_socialist = {
+	radical_socialist = {
 		types = {
 			radical_socialist_subtype = {}
 		}
