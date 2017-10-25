@@ -1,0 +1,38 @@
+﻿capital = 267
+
+#no oob needed
+
+set_technology = {
+}
+
+set_politics = {
+
+	parties = {
+		paternal_autocrat = { 
+			popularity = 15
+		}
+		
+		market_liberal = {
+			popularity = 20
+		}
+		
+		social_conservative = { 
+			popularity = 35
+		}
+		
+		syndicalist = {
+			popularity = 15
+		}
+		
+		authoritarian_democrat = {
+			popularity = 15
+		}
+		
+	}
+	
+	ruling_party = social_conservative
+	last_election = "1930.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
