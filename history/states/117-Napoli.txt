@@ -11,9 +11,9 @@ state={
 	}
 
 	history={
-		owner = ITA
-		add_core_of = ITA
-		add_claim_by = ITA
+		owner =
+		add_core_of = 
+		add_claim_by = 
 		victory_points = { 819 15 } #Naples
 		buildings = {
 			infrastructure = 6
