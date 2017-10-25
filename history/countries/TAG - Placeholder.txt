@@ -21,7 +21,7 @@ set_politics = {
 
 # Mohammad Hashim Khan (Prime Minister) other potential candidate
 create_country_leader = {
-	name = "Mohammed Zahir Shah"
+	name = "Emperor Norton"
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
 	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
 	expire = "1965.1.1"
