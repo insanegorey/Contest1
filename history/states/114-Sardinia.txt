@@ -8,10 +8,10 @@ state=
 	
 	history=
 	{
-		owner = ITA
+		owner = 
 		
-		add_core_of = ITA
-		add_claim_by = SRI
+		add_core_of = 
+		add_claim_by = 
 		victory_points = { 11773 1 } #Cagliari
 		buildings = {
 			infrastructure = 5
