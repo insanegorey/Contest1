@@ -9,6 +9,7 @@ To make things more understandable, I'll follow every step with an example. The 
 1. Create a tag for your country. A tag is a 3 character long identifier, usually typed in all caps, that is unique for every country. You can find existing tags in the /common/country_tags/00_countries.txt. Try to think of a tag that somewhat resembles the actual name of your country, but isn't taken yet. The first three letters of the country name are usually fine, but the important thing is to make it unique. Once you have it, add it to your mod's /common/country_tags folder in a .txt file like this:
 
 TRA = "countries/Transylvania.txt"
+
 2. Create the general graphical file for your country. This goes into the /common/countries folder (this is the file that we just referenced in the country_tags folder in the previous step). This file will determine the country's map color, and graphical culture. The file in my example is called Transylvania.txt, and looks like this:
 
 graphical_culture = eastern_european_gfx
