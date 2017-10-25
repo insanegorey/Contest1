@@ -91,6 +91,11 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_faction = 
+
+add_to_faction = 
+
+
 
 add_ideas = { 
 	#medium_economy
@@ -99,11 +104,11 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "Émile Bombelles"
+	name = "Frenchman"
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
-	picture = "FRA_Emile_Bombelles.tga"
+	picture = "Portrait_France_Sebastien_Faure.tga"
 	expire = "1965.1.1"
-	ideology = syndicalist
+	ideology = syndicalist_subtype
 	traits = {
 		#faure
 	}
@@ -132,31 +137,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nicolas Levasseur"
+	name = "Felix Gouin"
 	desc = "POLITICS_FELIX_GOUIN_DESC"
 	picture = ""
 	expire = "1965.1.1"
-	ideology = social_conservative
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "FRA_Desire_Gribelin.tga"
-	desc = "POLITICS_FELIX_GOUIN_DESC"
-	picture = "FRA_Desire_Gribelin.tga"
-	expire = "1965.1.1"
-	ideology = social_democrat
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Provisional Government"
-	desc = "POLITICS_FELIX_GOUIN_DESC"
-	picture = "FRA_Government.tga"
-	expire = "1965.1.1"
-	ideology = social_conservative
+	ideology = social_democrat_subtype
 	traits = {
 	}
 }
