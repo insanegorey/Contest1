@@ -6,7 +6,7 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = ENG
+		owner = 
 		victory_points = {
 			6103 30
 		}
@@ -22,7 +22,7 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = ENG
+		add_core_of = 
 	}
 
 	provinces={
