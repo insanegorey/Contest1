@@ -95,3 +95,5 @@ So, to quickly recap,
 5. Localisation in /localisation
 6. (optional) OOB in /history/countries
 7. Add the country in the game by giving it ownership/cores/claims on states in /history/states
+
+If you wanted more complicated features such as events and national focuses, please check out all the links on the subreddit, as well as the full wiki provided by Muller.
