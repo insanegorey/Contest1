@@ -104,9 +104,9 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "Frenchman"
+	name = "Émile Bombelles"
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
-	picture = "Portrait_France_Sebastien_Faure.tga"
+	picture = "FRA_Émile_Bombelles.tga"
 	expire = "1965.1.1"
 	ideology = syndicalist_subtype
 	traits = {
@@ -137,11 +137,31 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Felix Gouin"
+	name = "Désiré Gribelin"
 	desc = "POLITICS_FELIX_GOUIN_DESC"
-	picture = ""
+	picture = "FRA_Desire_Gribelin.tga"
 	expire = "1965.1.1"
 	ideology = social_democrat_subtype
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Nicolas Levasseur"
+	desc = "POLITICS_FELIX_GOUIN_DESC"
+	picture = "FRA_Government.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Provisional Government"
+	desc = "POLITICS_FELIX_GOUIN_DESC"
+	picture = "FRA_Government.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
 	traits = {
 	}
 }
