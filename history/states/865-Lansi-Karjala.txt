@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=865
 	name="STATE_865" # Länsi-Karjala
 	manpower = 251902

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=846 #Federated Malay States
 	name="STATE_846"
 	resources={

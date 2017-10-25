@@ -1,4 +1,4 @@
-state={
+state = {
 	id=824 # Rayong
 	name="STATE_824"
 	resources={

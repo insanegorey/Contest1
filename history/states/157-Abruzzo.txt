@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=157
 	name="STATE_157"
 	manpower = 2979335
@@ -7,9 +7,9 @@ state={
 	state_category = city
 
 	history={
-		owner = ITA
-		add_core_of = ITA
-		add_claim_by = SRI
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 925 1 } #Ancona
 		buildings = {
 			infrastructure = 6

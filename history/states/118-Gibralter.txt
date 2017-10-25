@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=118
 	name = "STATE_118"
@@ -6,7 +6,7 @@ state=
 	
 	state_category = enclave
 	history={
-		owner = 
+		owner = TAG
 		victory_points = { 4135 5.0 }
 		buildings = {
 			infrastructure = 6
@@ -17,7 +17,7 @@ state=
 				coastal_bunker = 2
 			}
 		}
-		add_core_of = 
+		add_core_of = TAG
 
 	}
 	provinces={

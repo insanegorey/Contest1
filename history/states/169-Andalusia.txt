@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=169
 	name="STATE_169"
 	manpower = 3175163
@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SPR
+		owner = TAG
 		victory_points = {
 			1048 1
 		}
@@ -26,7 +26,7 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = SPR
+		add_core_of = TAG
 	}
 
 	provinces={

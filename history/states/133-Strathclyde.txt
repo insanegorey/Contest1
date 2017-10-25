@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=133
 	name="STATE_133" # Lanark
 	manpower = 2257723
@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = TAG
+		add_core_of = TAG
 		victory_points = {
 			3273 15
 		}

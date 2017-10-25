@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=402
 	name="STATE_402"
 	resources={

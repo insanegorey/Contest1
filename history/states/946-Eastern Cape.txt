@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id = 946
 	name = "STATE_946" # Eastern Cape
 	manpower = 1115540

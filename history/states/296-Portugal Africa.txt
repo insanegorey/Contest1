@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=296
 	name="STATE_296" # Guinea-Bissau
 	manpower = 364900

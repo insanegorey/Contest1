@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=320
 	name="STATE_320"
 	manpower = 14086410
@@ -13,8 +13,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 10278 3 } #Madras
 		victory_points = { 10149 1 } #Pondicherry
 		buildings = {

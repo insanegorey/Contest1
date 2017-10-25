@@ -1,4 +1,4 @@
-state={
+state = {
 	id=566
 	name="STATE_566" #Irkutsk
 	
@@ -20,7 +20,7 @@ state={
 
 		}
 		add_core_of = TAG
-				add_claim_by = TRM
+				add_claim_by = TAG
 
 	}
 

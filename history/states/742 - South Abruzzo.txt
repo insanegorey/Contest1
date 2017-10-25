@@ -1,6 +1,6 @@
 
 
-state={
+state = {
 	id=742
 	name="STATE_742"
 	manpower = 2979335
@@ -8,8 +8,8 @@ state={
 	state_category = city
 
 	history={
-		owner = ITA
-		add_core_of = ITA
+		owner = TAG
+		add_core_of = TAG
 		
 		
 		buildings = {

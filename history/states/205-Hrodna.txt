@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=205
 	name="STATE_205" # Kaluga
 	manpower = 1121004

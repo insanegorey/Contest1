@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=82
 	name="STATE_82"
 	manpower = 941500
@@ -10,7 +10,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = AUS
+		owner = TAG
 		
 		victory_points = { 9606 3 }
 
@@ -18,8 +18,8 @@ state={
 			infrastructure = 5
 		}
 
-		add_core_of = AUS
-		# add_claim_by = ROM # will be added by focus
+		add_core_of = TAG
+		# add_claim_by = TAG
 	}
 
 	provinces={

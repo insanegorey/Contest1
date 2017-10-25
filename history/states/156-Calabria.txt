@@ -1,14 +1,14 @@
 
-state={
+state = {
 	id=156
 	name="STATE_156"
 	manpower = 2966315
 	
 	state_category = city
 	history={
-		owner = ITA
-		add_core_of = ITA
-		add_claim_by = ITA
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 9990 2 } #Reggio di Calabria
 		buildings = {
 			infrastructure = 5

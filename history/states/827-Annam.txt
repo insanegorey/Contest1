@@ -1,4 +1,4 @@
-state={
+state = {
 	id=827 # Hue
 	name="STATE_827"
 

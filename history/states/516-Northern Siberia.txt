@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=516
 	name="STATE_516" # Northwestern Siberia
 	manpower = 43948

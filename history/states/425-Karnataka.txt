@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=425
 	name="STATE_425" # Mysore
 	manpower = 7695400
@@ -14,8 +14,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 8011 2 } #Bengalore
 		victory_points = { 4344 1 } #Mysore
 		buildings = {

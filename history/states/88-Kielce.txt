@@ -1,4 +1,4 @@
-state={
+state = {
 	id=88 # Krakow
 	name="STATE_88"
 	manpower = 3392800
@@ -10,7 +10,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = POL
+		owner = TAG
 		victory_points = {
 			9427 5
 		}
@@ -20,7 +20,7 @@ state={
 			industrial_complex = 2
 			air_base = 4
 		}
-		add_core_of = POL
+		add_core_of = TAG
 	}
 
 	provinces={

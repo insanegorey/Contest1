@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=28
 	name="STATE_28" # Alsace-Lorraine
 	manpower = 1915600
@@ -10,10 +10,10 @@ state={
 	}
 
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = TAG
+		add_core_of = TAG
 		
-		add_claim_by = FRA
+		add_claim_by = TAG
 		victory_points = {
 			678 1
 		}

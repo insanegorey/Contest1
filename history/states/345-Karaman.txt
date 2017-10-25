@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=345
 	name="STATE_345" # Mersin
 	manpower = 411798

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=283
 	name="STATE_283" # Gansu
 	manpower = 2342600

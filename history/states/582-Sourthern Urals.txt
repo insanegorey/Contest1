@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=582
 	name="STATE_582" # Magnitogorsk
 	manpower = 1044991

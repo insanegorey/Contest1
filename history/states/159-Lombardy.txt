@@ -1,14 +1,14 @@
 
-state={
+state = {
 	id=159
 	name="STATE_159"
 	manpower = 5597704
 	state_category = metropolis
 
 	history={
-		owner = ITA
-		add_core_of = ITA
-		add_claim_by = SRI
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = {
 			3780 15
 		}

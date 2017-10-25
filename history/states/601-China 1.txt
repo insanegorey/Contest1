@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=601
 	name="STATE_601" # Xikang
 	manpower = 568200
@@ -15,7 +15,7 @@ state={
 		add_core_of = TAG
 		add_core_of = TAG
 		add_core_of = TAG
-		add_claim_by = TIB
+		add_claim_by = TAG
 		add_core_of = TAG
 		buildings = {
 			infrastructure = 1

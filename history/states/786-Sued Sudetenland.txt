@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=786
 	name="STATE_786"
@@ -7,13 +7,13 @@ state=
 	state_category = town
 	
 	history={
-		owner = AUS
+		owner = TAG
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 1
 		}
-		add_core_of = AUS
-		add_core_of = AUS
+		add_core_of = TAG
+		add_core_of = TAG
 	}
 
 

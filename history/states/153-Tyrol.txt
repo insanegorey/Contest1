@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=153
 	name="STATE_153"
 	manpower = 348985
@@ -7,7 +7,7 @@ state={
 	state_category = "hyvin"
 
 	history={
-		owner = AUS
+		owner = TAG
 		victory_points = {
 			673 5
 		}
@@ -17,7 +17,7 @@ state={
 			air_base = 3
 
 		}
-		add_core_of = AUS
+		add_core_of = TAG
 
 	}
 

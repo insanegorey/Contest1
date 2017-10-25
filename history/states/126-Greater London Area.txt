@@ -1,4 +1,4 @@
-state={
+state = {
 	id=126
 	name="STATE_126"
 	manpower=9824296
@@ -6,7 +6,7 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = 
+		owner = TAG
 		victory_points = {
 			6103 30
 		}
@@ -22,7 +22,7 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = 
+		add_core_of = TAG
 	}
 
 	provinces={

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=750 # Phnom Penh
 	name="STATE_750"
 	resources={
@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = TAG
-		add_claim_by = SIA
+		add_claim_by = TAG
 		add_core_of = TAG
 		add_core_of = TAG
 		victory_points = {

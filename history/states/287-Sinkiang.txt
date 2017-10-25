@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=287
 	name="STATE_287" # Taklamakan
 	manpower = 478000

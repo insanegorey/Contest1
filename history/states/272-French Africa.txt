@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=272
 	name="STATE_272" #Senegal
 	manpower = 2037520

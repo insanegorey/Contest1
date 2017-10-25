@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=105
 	name="STATE_105" # Montenegro
 	manpower = 895500
@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = 
+		owner = TAG
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -23,7 +23,7 @@ state={
 			}
 		}
 		
-		add_core_of = 
+		add_core_of = TAG
 		 
 		
 		victory_points = {

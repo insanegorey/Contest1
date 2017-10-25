@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=27
 	name="STATE_27" # Bourgogne
 	manpower = 870800
@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = FRA
-		add_core_of = FRA
+		owner = TAG
+		add_core_of = TAG
 		victory_points = {
 			3652 5
 		}

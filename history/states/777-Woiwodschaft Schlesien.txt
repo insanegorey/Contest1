@@ -1,4 +1,4 @@
-state={
+state = {
 	id=777 # Woiwodschaft Schlesien
 	name="STATE_777"
 	manpower = 1533500
@@ -10,12 +10,12 @@ state={
 	state_category = large_city
 
 	history={
-		owner = GER
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 
 		}
-		add_core_of = GER
+		add_core_of = TAG
 	}
 
 	provinces={

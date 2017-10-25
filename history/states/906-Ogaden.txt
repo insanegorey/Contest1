@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=906
 	name="STATE_906"
@@ -8,7 +8,7 @@ state=
 	history= {
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = ETH
+		add_claim_by = TAG
 		victory_points = { 12812 1 } #Werder
 		buildings = {
 			infrastructure = 3

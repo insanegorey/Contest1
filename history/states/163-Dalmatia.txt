@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=163
 	name="STATE_163"
@@ -7,7 +7,7 @@ state=
 	state_category = town
 	
 	history={
-		owner = SER
+		owner = TAG
 		victory_points = {
 			3924 1
 		}
@@ -28,7 +28,7 @@ state=
 
 		}
 		
-		add_core_of = SER
+		add_core_of = TAG
 		 
 	}
 

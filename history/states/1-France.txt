@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=1
 	name="STATE_1" # Corsica
 	manpower = 322900
@@ -7,8 +7,10 @@ state={
 	state_category = town
 
 	history={
-		owner = 
-		add_core_of = 
+		owner = TAG
+		add_core_of = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 3838 1 }
 		buildings = {
 			infrastructure = 4

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=858
 	name="STATE_858"
 	manpower = 42000
@@ -20,13 +20,13 @@ state={
 		}
 		
 		add_core_of = TAG
-		add_claim_by = TIB
-		add_claim_by = QIE
-		add_claim_by = SQI
-		add_claim_by = PRF
-		add_claim_by = DEH
-		add_claim_by = BHC
-		add_claim_by = FNG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
 	}
 
 	provinces={

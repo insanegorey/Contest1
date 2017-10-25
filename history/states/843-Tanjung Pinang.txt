@@ -1,4 +1,4 @@
-state={
+state = {
 	id=843 #Tanjung Pinang
 	name="STATE_843"
 

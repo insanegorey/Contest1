@@ -1,11 +1,11 @@
-state={
+state = {
 	id=909
 	name="STATE_909"
 	manpower=30130
 	state_category=wasteland
 	
 	history={
-		owner = DEN
+		owner = TAG
 		add_core_of=SWE
 		buildings={
 			infrastructure=4

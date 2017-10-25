@@ -1,11 +1,10 @@
 
-state={
+state = {
 	id=10
 	name="STATE_10"
 
 	history={
-		owner = 
-		add_core_of = 
+		owner = TAG
 		victory_points = {
 			3544 10.0 
 		}
@@ -17,6 +16,8 @@ state={
 			air_base = 5
 
 		}
+		add_core_of = TAG
+
 	}
 
 	provinces={

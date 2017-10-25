@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=336 #Singapore
 	name="STATE_336"
 

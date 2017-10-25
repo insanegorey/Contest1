@@ -1,4 +1,4 @@
-state= {
+state = {
 	id=123
 	name="STATE_123"
 	manpower = 1221013
@@ -6,7 +6,7 @@ state= {
 	state_category = town
 
 	history= {
-		owner = 
+		owner = TAG
 		victory_points = { 540 5 }
 		buildings = {
 			infrastructure = 7
@@ -19,7 +19,7 @@ state= {
 			}
 
 		}
-		add_core_of = 
+		add_core_of = TAG
 	}
 
 	provinces= {

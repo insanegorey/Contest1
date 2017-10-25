@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=282
 	name="STATE_282" # Kanto
 	manpower = 13773000

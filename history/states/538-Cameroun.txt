@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=538
 	name="STATE_538" # Central Congo
 	manpower = 1693974

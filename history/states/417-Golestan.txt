@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=417
 	name="STATE_417" # Hamadan
 	manpower = 796396

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=311
 	name="STATE_311"
 
@@ -14,7 +14,7 @@ state={
 
 		}
 		add_core_of = TAG
-		add_claim_by = GUA
+		add_claim_by = TAG
 
 	}
 

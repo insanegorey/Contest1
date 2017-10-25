@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=657
 	name="STATE_657" # Blagovechtchensk
 	manpower = 308380

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=468
 	name="STATE_468" # Saint Lawrence
 	manpower = 3832754

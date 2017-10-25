@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=743
 	name="STATE_743" # ShanghaiAndLegation
 	manpower = 4730510

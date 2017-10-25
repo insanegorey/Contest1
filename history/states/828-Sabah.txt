@@ -1,4 +1,4 @@
-state={
+state = {
 	id=828 # Sabah
 	name="STATE_828"
 	manpower = 200000

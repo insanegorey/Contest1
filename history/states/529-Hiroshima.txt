@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=529
 	name="STATE_529" # Chugoku
 	manpower = 5341000

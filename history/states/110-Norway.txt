@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=110
 	name="STATE_110"
 	manpower = 1410219
@@ -15,7 +15,7 @@ state={
 			6115 15
 		}
 		
-		owner = 
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
@@ -27,7 +27,7 @@ state={
 				coastal_bunker = 3
 			}
 		}
-		add_core_of =
+		add_core_of = TAG
 	}
 
 	provinces={

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=432
 	name="STATE_432"
 	manpower = 6717100
@@ -14,8 +14,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = PRF
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 12366 1 } #Gauhati
 		buildings = {
 			infrastructure = 3

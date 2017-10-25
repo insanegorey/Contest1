@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=179
 	name="STATE_179"
 	manpower = 1122200
@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = POR
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -15,7 +15,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = POR
+		add_core_of = TAG
 	}
 
 	provinces={

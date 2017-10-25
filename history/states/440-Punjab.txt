@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=440
 	name="STATE_440"
 	manpower = 6510200
@@ -9,8 +9,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = PRF
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 10772 1 } #Ludhiana
 		buildings = {
 			infrastructure = 5

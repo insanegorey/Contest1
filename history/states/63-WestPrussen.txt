@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=63
 	name="STATE_63"
 	manpower = 1274417
@@ -11,8 +11,8 @@ state={
 	state_category = town
 
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = TAG
+		add_core_of = TAG
 		buildings = {
 			infrastructure = 6
 			11372 = {

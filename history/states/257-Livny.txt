@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=257
 	name="STATE_257" # Tambov
 	manpower = 1779583

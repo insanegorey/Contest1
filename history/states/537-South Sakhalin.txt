@@ -1,4 +1,4 @@
-state= {
+state = {
 	id=537
 	name="STATE_537"
 	manpower = 295196
@@ -11,7 +11,7 @@ state= {
 	history= {
 		owner = TAG
 		add_core_of = TAG
-		#add_claim_by = SOV # Removed because of too much aggression
+		#add_claim_by = TAG
 		buildings = {
 			infrastructure = 3
 			12446 = {

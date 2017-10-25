@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=356
 	name="STATE_356" # Kastamonu
 	manpower = 860589

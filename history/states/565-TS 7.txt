@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=565
 	name="STATE_565" # Bodaybo
 	manpower = 195325
@@ -15,7 +15,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = TAG
-				add_claim_by = TRM
+				add_claim_by = TAG
 	}
 
 	provinces={

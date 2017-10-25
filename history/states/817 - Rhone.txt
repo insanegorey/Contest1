@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=817
 	name="STATE_817" # Rhone
 	manpower = 1473200
@@ -7,9 +7,9 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
-		add_claim_by = NFA
-		add_core_of = FRA
+		owner = TAG
+		add_claim_by = TAG
+		add_core_of = TAG
 		 
 		buildings = {
 			infrastructure = 6

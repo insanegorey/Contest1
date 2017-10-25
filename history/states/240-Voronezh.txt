@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=240
 	name="STATE_240" # Belgorod
 	manpower = 1364537

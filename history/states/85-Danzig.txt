@@ -1,12 +1,12 @@
-state={
+state = {
 	id=85
 	name="STATE_85"
 	manpower = 256403
 	
 	state_category = city
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = TAG
+		add_core_of = TAG
 		victory_points = {
 			362 1
 		}

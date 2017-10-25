@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=889
 	name="STATE_889" # Vizagapatnam
 	manpower = 2105500
@@ -13,8 +13,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = PRF
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 10001 1 } #Vizagapatnam
 		buildings = {
 			infrastructure = 3

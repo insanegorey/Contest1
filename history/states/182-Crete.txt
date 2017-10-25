@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=182
 	name="STATE_182"
@@ -7,7 +7,7 @@ state=
 	state_category = rural
 	history=
 	{
-		owner = GRE
+		owner = TAG
 		victory_points = {
 			9940 1
 		}
@@ -22,7 +22,7 @@ state=
 				naval_base = 3
 			}
 		}
-		add_core_of = GRE
+		add_core_of = TAG
 	}
 	provinces=
 	{

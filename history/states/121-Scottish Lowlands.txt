@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=121
 	name="STATE_121" # Lothian
 	manpower = 1431624
@@ -7,8 +7,8 @@ state={
 	state_category = city
 
 	history={
-		owner = 
-		add_core_of = 
+		owner = TAG
+		add_core_of = TAG
 		victory_points = { 9392 10 }
 		victory_points = { 6300 1 }
 		buildings = {

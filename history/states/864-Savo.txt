@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=864
 	name="STATE_864" # Savo
 	manpower = 387985

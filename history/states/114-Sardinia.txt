@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=114
 	name="STATE_114"
@@ -8,10 +8,10 @@ state=
 	
 	history=
 	{
-		owner = 
+		owner = TAG
 		
-		add_core_of = 
-		add_claim_by = 
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 11773 1 } #Cagliari
 		buildings = {
 			infrastructure = 5

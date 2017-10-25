@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=610
 	name="STATE_610" # Jehol
 	manpower = 2316100

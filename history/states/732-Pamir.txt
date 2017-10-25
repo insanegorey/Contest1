@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=732
 	name="STATE_732"
 
@@ -10,7 +10,7 @@ state={
 
 		}
 		add_core_of = TAG
-		add_claim_by = AFG
+		add_claim_by = TAG
 		victory_points = {
 			2058 1
 		}

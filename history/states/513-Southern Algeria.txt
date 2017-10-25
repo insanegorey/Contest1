@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=513
 	name="STATE_513" #Desert
 

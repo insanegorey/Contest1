@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=8
 	name="STATE_8"
@@ -12,9 +12,9 @@ state=
 
 	history=
 	{
-		owner = LUX
-		add_core_of = LUX
-		add_claim_by = HOL
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		 
 		buildings = {
 			infrastructure = 6

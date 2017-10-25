@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=150
 	name="STATE_150" # Kainuu
 	manpower = 94050

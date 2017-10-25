@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=117
 	name="STATE_117" # Campania
 	manpower = 5333611
@@ -11,9 +11,9 @@ state={
 	}
 
 	history={
-		owner =
-		add_core_of = 
-		add_claim_by = 
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 819 15 } #Naples
 		buildings = {
 			infrastructure = 6

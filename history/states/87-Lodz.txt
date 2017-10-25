@@ -1,10 +1,10 @@
 
-state={
+state = {
 	id=87
 	name="STATE_87"
 
 	history={
-		owner = POL
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -14,7 +14,7 @@ state={
 		victory_points = {
 			9508 3
 		}
-		add_core_of = POL
+		add_core_of = TAG
 
 	}
 

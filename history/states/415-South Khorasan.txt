@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=415
 	name="STATE_415" # Herat
 	manpower = 1632860

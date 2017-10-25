@@ -1,10 +1,10 @@
 
-state={
+state = {
 	id=119
 	name="STATE_119"
 
 	history={
-		owner = 
+		owner = TAG
 		victory_points = {
 			3379 3
 		}
@@ -25,7 +25,7 @@ state={
 
 		}
 		
-		add_core_of = 
+		add_core_of = TAG
 		 
 
 	}

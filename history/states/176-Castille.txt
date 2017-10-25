@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=176
 	name="STATE_176"
 	manpower = 1343760
@@ -7,7 +7,7 @@ state={
 	state_category = large_town
 
 	history={
-		owner = SPR
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -18,7 +18,7 @@ state={
 		victory_points = {
 			11825 2
 		}
-		add_core_of = SPR
+		add_core_of = TAG
 	}
 
 	provinces={

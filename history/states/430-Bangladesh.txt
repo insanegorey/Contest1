@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=430
 	name="STATE_430" # East Bengal
 	manpower = 31973300
@@ -9,8 +9,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = PRF
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 11929 3 } #Dacca
 		victory_points = { 9991 1 } #Chittagong
 		buildings = {

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=679
 	name="STATE_679"
 
@@ -21,7 +21,7 @@ state={
 
 		}
 		add_core_of = TAG
-		add_claim_by = OTT
+		add_claim_by = TAG
 
 	}
 

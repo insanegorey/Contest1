@@ -1,4 +1,4 @@
-state={
+state = {
 	id=81
 	name="STATE_81"
 	manpower=1519300
@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = ROM
+		owner = TAG
 
 		victory_points = { 6652 1 }
 
@@ -16,7 +16,7 @@ state={
 			industrial_complex = 2
 		}
 
-		add_core_of = ROM
+		add_core_of = TAG
 		set_demilitarized_zone = yes
 	}
 	provinces={

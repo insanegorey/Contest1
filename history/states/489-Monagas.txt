@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=489
 	name="STATE_489" # Zulia
 	manpower = 1176373

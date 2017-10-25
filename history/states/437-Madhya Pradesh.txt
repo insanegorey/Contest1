@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=437
 	name="STATE_437" # Indore
 	manpower = 8402500
@@ -9,8 +9,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = PRF
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 12080 1 } #Indore
 		buildings = {
 			infrastructure = 4

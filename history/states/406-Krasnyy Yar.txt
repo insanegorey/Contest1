@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=406
 	name="STATE_406" # Gurev
 	manpower = 146494

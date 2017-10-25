@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=45
 	name="STATE_45" # Vojvodina
 	manpower = 1026200
@@ -7,11 +7,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = AUS
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = AUS
+		add_core_of = TAG
 	}
 
 	provinces={

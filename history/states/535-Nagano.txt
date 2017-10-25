@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=535
 	name="STATE_535" # Koshinetsu
 	manpower = 3871000

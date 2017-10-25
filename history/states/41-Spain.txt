@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=41
 	name="STATE_41" # Madrid
 	manpower = 2269659
@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = TAG
 		victory_points = { 3938 20 } #Madrid
 		victory_points = { 3986 1 } #Toledo
 		buildings = {
@@ -20,7 +20,7 @@ state={
 			industrial_complex = 2
 			air_base = 6
 		}
-		add_core_of = SPR
+		add_core_of = TAG
 	}
 
 	provinces={

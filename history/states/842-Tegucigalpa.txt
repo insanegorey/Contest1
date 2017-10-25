@@ -1,4 +1,4 @@
-state={
+state = {
 	id=842
 	name="STATE_842"
 	state_category = city
@@ -21,8 +21,8 @@ state={
 		victory_points = {
 			13207 3
 		}
-		add_claim_by = GUA
-		add_claim_by = NIC
+		add_claim_by = TAG
+		add_claim_by = TAG
 	}
 
 	provinces={

@@ -1,10 +1,10 @@
 
-state={
+state = {
 	id=778
 	name="STATE_778"
 
 	history={
-		owner = DEN
+		owner = TAG
 		add_core_of=SWE
 		buildings={
 			infrastructure=4

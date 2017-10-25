@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=564
 	name="STATE_564" # Ulan Ude
 	manpower = 370893
@@ -19,7 +19,7 @@ state={
 
 		}
 		add_core_of = TAG
-				add_claim_by = TRM
+				add_claim_by = TAG
 	}
 
 	provinces={

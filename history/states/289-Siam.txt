@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=289 # Bangkok
 	name="STATE_289"
 	resources={

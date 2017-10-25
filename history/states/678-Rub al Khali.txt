@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=678
 	name="STATE_678"
 	manpower=42

@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=748
 	name="STATE_748" # Xikang
 	manpower = 468200

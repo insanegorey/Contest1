@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=575
 	name="STATE_575" # Kirensk
 	manpower = 146494
@@ -12,7 +12,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = TAG
-				add_claim_by = TRM
+				add_claim_by = TAG
 	}
 
 	provinces={

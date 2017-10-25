@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=666
 	name="STATE_666" # Lappland
 	manpower = 344840
@@ -11,7 +11,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = DEN
+		owner = TAG
 		victory_points = {
 			9108 1
 		}
@@ -22,7 +22,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = DEN
+		add_core_of = TAG
 	}
 
 	provinces={

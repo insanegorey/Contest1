@@ -1,4 +1,4 @@
-state=
+state = 
 {
 	id=124
 	name="STATE_124"
@@ -8,8 +8,8 @@ state=
 	
 	history=
 	{
-		owner = 
-		add_core_of = 
+		owner = TAG
+		add_core_of = TAG
 		buildings = {
 			infrastructure = 6
 			408 = {

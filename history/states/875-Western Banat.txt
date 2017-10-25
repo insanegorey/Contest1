@@ -1,14 +1,14 @@
 
-state={
+state = {
 	id=875
 	name="STATE_875"
 
 	history={
-		owner = AUS
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = AUS
+		add_core_of = TAG
 	}
 
 	provinces={

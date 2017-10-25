@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=855
 	name="STATE_855"
 	resources={
@@ -13,7 +13,7 @@ state={
 
 		}
 		add_core_of = TAG
-		add_claim_by = BOL
+		add_claim_by = TAG
 
 	}
 

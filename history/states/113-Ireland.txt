@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=113
 	name="STATE_113" # Leinster
 	manpower = 1357600
@@ -11,7 +11,7 @@ state={
 	state_category = "city"
 	
 	history={
-		owner = 
+		owner = TAG
 		victory_points = {
 			11293 5
 		}
@@ -25,7 +25,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = 
+		add_core_of = TAG
 	}
 
 	provinces={

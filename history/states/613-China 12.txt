@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=613
 	name="STATE_613" # Nanjing
 	manpower = 19305100

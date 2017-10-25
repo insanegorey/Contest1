@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=443
 	name="STATE_443" # Sind
 	manpower = 3887000
@@ -9,8 +9,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = PRF
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 3456 1 } #Karachi
 		buildings = {
 			infrastructure = 5

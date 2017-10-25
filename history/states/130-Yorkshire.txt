@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=130
 	name="STATE_130"
 	manpower = 4762495
@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = TAG
 		victory_points = {
 			9379 15
 		}
@@ -27,7 +27,7 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = ENG
+		add_core_of = TAG
 	}
 
 	provinces={

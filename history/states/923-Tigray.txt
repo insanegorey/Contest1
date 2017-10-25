@@ -1,12 +1,12 @@
 
-state={
+state = {
 	id=923
 	name="STATE_923"
 
 	history={
 		owner = TAG
 		add_core_of=ETH
-		add_claim_by = ERT
+		add_claim_by = TAG
 		buildings={
 			infrastructure=3
 		}

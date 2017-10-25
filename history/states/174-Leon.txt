@@ -1,10 +1,10 @@
 
-state={
+state = {
 	id=174
 	name="STATE_174"
 
 	history={
-		owner = SPR
+		owner = TAG
 		victory_points = { 11707 1 }
 		victory_points = { 3920 2 } #Leon
 		victory_points = { 6907 1 } #Salamanca
@@ -14,7 +14,7 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SPR
+		add_core_of = TAG
 
 	}
 

@@ -1,14 +1,14 @@
 
-state={
+state = {
 	id=115
 	name="STATE_115"
 	manpower = 3836571
 	
 	state_category = city
 	history={
-		owner = 
-		add_core_of = 
-		add_claim_by = 
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 10074 8 } #Palermo
 		victory_points = { 4159 4 } #Messina
 		victory_points = { 4014 1 } #Catania

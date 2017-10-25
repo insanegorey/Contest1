@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=228
 	name="STATE_228" # Lugansk
 	manpower = 2167411

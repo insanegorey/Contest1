@@ -1,4 +1,4 @@
-state={
+state = {
 	id=90
 	name="STATE_90" # Kielce
 	manpower = 1602200
@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = POL
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 		industrial_complex = 1
 		}
-		add_core_of = POL
+		add_core_of = TAG
 	}
 
 	provinces={

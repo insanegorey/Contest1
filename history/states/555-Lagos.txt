@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=555
 	name="STATE_555" #Kuril Islands
 	manpower = 15000
@@ -9,7 +9,7 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		#add_claim_by = SOV # Removed because of too much aggression
+		#add_claim_by = TAG
 		buildings = {
 			infrastructure = 3
 			1399 = {

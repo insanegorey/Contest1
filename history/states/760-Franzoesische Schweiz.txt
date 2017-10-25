@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=760
 	name="STATE_760"
 	manpower = 829546
@@ -9,8 +9,8 @@ state={
 	state_category = large_city
 
 	history={
-		owner = SWI
-		add_claim_by = FRA
+		owner = TAG
+		add_claim_by = TAG
 		victory_points = {
 			6666 3 
 		}
@@ -22,7 +22,7 @@ state={
 				bunker = 2
 			}
 		}
-		add_core_of = SWI
+		add_core_of = TAG
 	}
 
 	provinces={

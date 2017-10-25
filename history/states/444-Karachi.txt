@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=444
 	name="STATE_444" # Baluchistan
 	manpower = 463500
@@ -9,9 +9,9 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = PRF
-		add_claim_by = AFG
+		add_claim_by = TAG
+		add_claim_by = TAG
+		add_claim_by = TAG
 		buildings = {
 			infrastructure = 2
 		}

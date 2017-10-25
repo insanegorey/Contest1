@@ -1,6 +1,6 @@
 
 
-state={
+state = {
 	id=741
 	name="STATE_741"
 	manpower = 1031874
@@ -10,8 +10,8 @@ state={
 	state_category = large_city
 
 	history={
-		owner = BEL
-		add_core_of = BEL
+		owner = TAG
+		add_core_of = TAG
 		victory_points = {
 			11407 1
 		}

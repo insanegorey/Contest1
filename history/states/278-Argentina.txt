@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=278
 	name="STATE_278" # Pampas
 	manpower = 5655600

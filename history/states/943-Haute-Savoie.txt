@@ -1,10 +1,10 @@
 
-state={
+state = {
 	id=943
 	name="STATE_943"
 
 	history={
-		owner = FRA
+		owner = TAG
 		add_core_of=ITA
 		add_core_of=FRA
 		add_claim_by=SRI

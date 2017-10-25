@@ -1,11 +1,11 @@
 
-state={
+state = {
 	id=756
 	name="STATE_756"
 
 	history={
 		owner = TAG
-		add_claim_by = SIA
+		add_claim_by = TAG
 		add_core_of = TAG
 		add_core_of = TAG
 		victory_points = {

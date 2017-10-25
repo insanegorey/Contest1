@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=109
 	name="STATE_109" # Croatia
 	manpower = 2024400
@@ -7,7 +7,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = 
+		owner = TAG
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -17,9 +17,9 @@ state={
 			11581 10
 		}
 		
-		add_core_of = 
+		add_core_of = TAG
 		 
-		add_claim_by = 
+		add_claim_by = TAG
 	}
 
 	provinces={

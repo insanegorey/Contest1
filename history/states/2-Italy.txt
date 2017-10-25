@@ -1,5 +1,5 @@
 
-state= {
+state = {
 	id=2
 	name="STATE_2" # Latium
 	manpower = 2691971
@@ -8,9 +8,9 @@ state= {
 
 	history=
 	{
-		owner = ITA
-		add_core_of = ITA
-		add_claim_by = SRI
+		owner = TAG
+		add_core_of = TAG
+		add_claim_by = TAG
 		victory_points = { 9904 40 }
 		buildings = {
 			infrastructure = 8

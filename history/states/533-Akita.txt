@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=533
 	name="STATE_533" # Tohoku
 	manpower = 6575000

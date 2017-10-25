@@ -1,4 +1,4 @@
-state={
+state = {
 	id=427
 	name="STATE_427" #Hyderabad
 	manpower = 9757900
@@ -12,8 +12,8 @@ state={
 	history={
 		owner = TAG
 		add_core_of = TAG
-		add_claim_by = BHC
-		add_claim_by = DEH
+		add_claim_by = TAG
+		add_claim_by = TAG
 		victory_points = { 4883 1 } #Nagpur
 		victory_points = { 8087 10 } #Hyderabad
 		buildings = {

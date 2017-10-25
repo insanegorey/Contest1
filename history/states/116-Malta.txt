@@ -1,12 +1,12 @@
-state=
+state = 
 {
 	id=116
 	name="STATE_116"
 	manpower = 241621
 	state_category = small_island
 	history= {
-		owner = 
-		add_core_of =
+		owner = TAG
+		add_core_of = TAG
 		victory_points = { 12003 1 } #Valetta
 		buildings = {
 			infrastructure = 3

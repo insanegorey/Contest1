@@ -1,5 +1,5 @@
 
-state={
+state = {
 	id=632
 	name="STATE_632"
 	manpower=150
@@ -14,7 +14,7 @@ state={
 			}
 		}
 		add_core_of = TAG
-		add_claim_by = JAP
+		add_claim_by = TAG
 		victory_points = {
 			13047 1
 		}
