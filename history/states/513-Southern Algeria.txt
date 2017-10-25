@@ -4,9 +4,9 @@ state = {
 	name="STATE_513" #Desert
 
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 1
 

@@ -11,10 +11,10 @@ state = {
 	state_category = city
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
+		owner = FRA
+		add_claim_by = FRA
 		 
-		add_core_of = TAG
+		add_core_of = FRA
 		victory_points = {
 			9737 20
 		}

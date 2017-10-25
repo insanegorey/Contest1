@@ -7,9 +7,9 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
-		add_core_of = TAG
+		owner = FRA
+		add_claim_by = FRA
+		add_core_of = FRA
 		 
 
 		buildings = {

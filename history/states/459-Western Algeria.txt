@@ -10,9 +10,9 @@ state = {
 	}
 
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = FRA
 		
 		victory_points = {   #Alger
 			1145 30

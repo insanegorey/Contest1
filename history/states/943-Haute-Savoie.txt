@@ -4,7 +4,7 @@ state = {
 	name="STATE_943"
 
 	history={
-		owner = TAG
+		owner = FRA
 		add_core_of=ITA
 		add_core_of=FRA
 		add_claim_by=SRI
