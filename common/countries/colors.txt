@@ -2,3 +2,8 @@ EMP = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+
+FRA = {
+	color = rgb { 96 130 182 }
+	color_ui = rgb { 96 130 182 }
+}
