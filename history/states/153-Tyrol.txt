@@ -7,7 +7,7 @@ state = {
 	state_category = "hyvin"
 
 	history={
-		owner = TAG
+		owner = ALP
 		victory_points = {
 			673 5
 		}
@@ -17,7 +17,7 @@ state = {
 			air_base = 3
 
 		}
-		add_core_of = TAG
+		add_core_of = ALP
 
 	}
 

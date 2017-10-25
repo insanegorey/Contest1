@@ -8,8 +8,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
+		owner = ALP
+		add_claim_by = ALP
 		victory_points = {
 			6626 1 
 		}
@@ -26,7 +26,7 @@ state = {
 			}
 
 		}
-		add_core_of = TAG
+		add_core_of = ALP
 		set_demilitarized_zone = yes
 
 	}
