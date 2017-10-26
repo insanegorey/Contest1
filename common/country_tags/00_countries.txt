@@ -112,6 +112,7 @@ PAK = "countries/Pakistan.txt"
 BOT = "countries/Botswana.txt"
 MAN = "countries/Manchukou.txt"
 TAG = "countries/Placeholder.txt"
+### FlimsyPike
 EMP = "countries/EnglishEmpire.txt" #FlimsyPike (Social Conservatives, London)
 YOR = ".txt" #FlimsyPike (Paternal Autocrats, Yorkshire)
 MID = ".txt" #FlimsyPike (Socialists, Midlands)
@@ -120,4 +121,7 @@ CRN = ".txt" #FlimsyPike (Liberal, Cornwall)
 WLS = ".txt" #FlimsyPike (Liberal, Wales)
 STL = ".txt" #FlimsyPike (Authoritarian Democrat, Scotland)
 IRL = ".txt" #FlimsyPike (Authoritarian Democrat, Ireland)
+### Gorey
 ALP = ".txt" #reserved tag for Gorey
+### Miah
+GTU = ".txt" # Greco-Turkish Union
