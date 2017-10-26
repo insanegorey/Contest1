@@ -3,12 +3,12 @@
 ###########################
 
 focus_tree = {
-	id = FRA
+	id = XXX
 	country = {
 		factor = 0
 		modifier = {
 			add = 10
-			tag = FRA
+			tag = XXX
 		}
 	}
 	default = no
