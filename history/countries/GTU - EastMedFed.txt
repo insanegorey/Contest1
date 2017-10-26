@@ -62,15 +62,93 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+# DIPLOMACY / WAR 36
+	declare_war_on = {
+		target = DSE
+		type = annex_everything
+	}
+	
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = MGR
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.75
+	}
+	set_autonomy = {
+		target = GRM
+		autonomous_state = autonomy_colony
+		freedom_level = 0.65
+	}
+	set_autonomy = {
+		target = PHO
+		autonomous_state = autonomy_colony
+		freedom_level = 0.25
+	}
+	else = {
+		puppet = MGR
+		puppet = GRM
+		puppet = PHO
+	}
+}
+
 ### Starting Political Leaders ###
 create_country_leader = { # Chancellor Themistoklis Sophoulis
-	name = "Themistoklis Sophoulis"
+	name = "Alexandros Papagos"
 	desc = "GTU_them_soph_desc"
-	picture = "Portrait_England_General_Campbell.tga"
+	picture = "Portrait_GRE_Alexandros_Papagos"
 	expire = "1965.1.1"
-	ideology = authoritarian_democrat
+	ideology = authoritarian_democrat_subtype
 	traits = { }
 }
+
+create_country_leader = {
+	name = "Nikos Zachariadis"
+	desc = "POLITICS_NIKOS_PLOUMPIDIS_DESC"
+	picture = "Portrait_GRE_Nikos_Ploumpidis.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Themistoklis Sophoulis"
+	desc = "POLITICS_THEMISTOKLIS_SOPHOULIS_DESC"
+	picture = "Portrait_GRE_Themistoklis_Sophoulis.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ioannis Metaxas"
+	desc = "POLITICS_IOANNIS_METAXAS_DESC"
+	picture = "Portrait_Greece_Ioannis_Metaxas.dds"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ioannis Metaxas"
+	desc = "POLITICS_IOANNIS_METAXAS_DESC"
+	picture = "Portrait_Greece_Ioannis_Metaxas.dds"
+	expire = "1965.1.1"
+	ideology = national_populist_subtype
+	traits = {
+		#
+	}
+}
+
 add_ideas = {
 }
 

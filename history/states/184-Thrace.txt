@@ -9,12 +9,11 @@ state = {
 	
 
 	history={
-		owner = TAG
+		owner = DSE
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = TAG
-		add_claim_by = TAG
+		add_core_of = DSE
 
 	}
 

@@ -7,7 +7,7 @@ state =
 	state_category = rural
 	history=
 	{
-		owner = TAG
+		owner = GTU
 		victory_points = {
 			9940 1
 		}
@@ -22,7 +22,7 @@ state =
 				naval_base = 3
 			}
 		}
-		add_core_of = TAG
+		add_core_of = GTU
 	}
 	provinces=
 	{
