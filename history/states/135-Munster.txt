@@ -7,7 +7,7 @@ state = {
 	state_category = city
 
 	history={
-		owner = TAG
+		owner = IRL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -21,7 +21,7 @@ state = {
 		victory_points = {
 			6313 1
 		}		
-		add_core_of = TAG
+		add_core_of = IRL
 	}
 
 	provinces={
