@@ -4,7 +4,7 @@ state = {
 	name="STATE_11"
 
 	history={
-		owner = TAG
+		owner = RUS
 		victory_points = {
 			6296 1
 		}
@@ -21,7 +21,8 @@ state = {
 			air_base = 4
 
 		}
-		add_core_of = TAG
+		add_core_of = RUS
+		add_core_of = LIT
 
 	}
 

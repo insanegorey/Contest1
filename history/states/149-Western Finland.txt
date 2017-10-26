@@ -6,8 +6,9 @@ state = {
 	state_category = town
 	
 	history={
-		owner = TAG
-		add_core_of = TAG
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = FIN
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

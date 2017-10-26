@@ -10,7 +10,7 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 			air_base = 2
@@ -18,8 +18,8 @@ state = {
 		}
 		victory_points = {
 			748 1
-		}		
-		add_core_of = TAG
+		}
+		add_core_of = RUS
 	}
 
 	provinces={
