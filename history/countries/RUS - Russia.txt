@@ -26,7 +26,7 @@ set_politics = {
 
 	parties = {
 		totalist = {
-			popularity = 25
+			popularity = 35
 		}
 		syndicalist = {
 			popularity = 0
@@ -38,7 +38,7 @@ set_politics = {
 			popularity = 0
 		}
 		social_liberal = {
-			popularity = 25
+			popularity = 30
 		}
 		market_liberal = {
 			popularity = 0
@@ -47,17 +47,17 @@ set_politics = {
 			popularity = 0
 		}
 		authoritarian_democrat = {
-			popularity = 25
-		}
-		paternal_autocrat = {
 			popularity = 0
 		}
+		paternal_autocrat = {
+			popularity = 35
+		}
 		national_populist = {
-			popularity = 25
+			popularity = 0
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
+	ruling_party = social_liberal
 	last_election = "1932.6.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -101,7 +101,7 @@ create_country_leader = {
 	desc = "POLITICS_ALEXANDER_FYODOROVICH_KERENSKY_DESC"
 	picture = "Portrait_Russia_Nicholas_II.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = paternal_autocrat_subtype
 	traits = {
 		
 	}
