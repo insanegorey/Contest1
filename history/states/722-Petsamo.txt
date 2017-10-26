@@ -6,14 +6,15 @@ state = {
 	state_category = enclave
 
 	history={
-		owner = TAG
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 			9140 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = TAG
+		add_core_of = RUS
+		add_core_of = FIN
 	}
 	
 	provinces={

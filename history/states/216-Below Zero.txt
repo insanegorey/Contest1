@@ -5,7 +5,7 @@ state = {
 	state_category = rural
 
 	history={
-		owner = TAG
+		owner = RUS
 		victory_points = {
 			11159 1
 		}
@@ -13,8 +13,7 @@ state = {
 			infrastructure = 4
 
 		}
-		add_core_of = TAG
-		add_core_of = TAG
+		add_core_of = RUS
 
 	}
 

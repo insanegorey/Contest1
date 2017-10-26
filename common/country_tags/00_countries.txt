@@ -127,3 +127,7 @@ GRM = "countries/Hellenic Federation/GrkMags.txt" # Greek Magnates
 MGR = "countries/Hellenic Federation/MegGrk.txt" # Megali Greece
 PHO = "countries/Hellenic Federation/PhoGrk.txt" # Phonecians
 DSE = "countries/Hellenic Federation/ComGrk.txt" # Communist Greeks
+#
+### Killeritch
+RUS = "countries/Russia.txt"
+COU = "countries/Courland.txt"
