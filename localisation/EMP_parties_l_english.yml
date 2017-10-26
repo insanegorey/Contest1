@@ -61,4 +61,7 @@
  EMP_national_populist:0 "Absolute Authority"
  EMP_national_populist_ADJ:0 "Anglican"
  EMP_national_populist_DEF:0 "Absolute Authority"
- 
+ ##################################
+ # Leaders
+ ##################################
+ EMP_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
