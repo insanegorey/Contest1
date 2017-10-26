@@ -1,0 +1,67 @@
+﻿l_english:
+ EMP.1.t:0 "French Republic"
+ EMP.1.d:0 "traps are gay"
+ EMP.1.a:0 "i agree"
+
+ ##############################
+ # EMP Parties (note: most were taken from kebb's, so you'll have to change most.
+ ##############################
+
+ EMP_totalist_party:0 "Totalists"
+ EMP_totalist_party_long:0 "English Totalist Union"
+ EMP_radical_socialist_party:0 "Anarchists"
+ EMP_radical_socialist_party_long:0 "Anarchists"
+ EMP_syndicalist_party:0 "Syndicalists"
+ EMP_syndicalist_party_long:0 "Syndicalists"
+ EMP_social_democrat_party:0 "Labour Party"
+ EMP_social_democrat_party_long:0 "English Labour Party"
+ EMP_social_liberal_party:0 "Liberal Democrats"
+ EMP_social_liberal_party_long:0 "Liberal Democrats"
+ EMP_market_liberal_party:0 "Libertarian Party"
+ EMP_market_liberal_party_long:0 "Libertarian Party"
+ EMP_social_conservative_party:0 "Conservatives"
+ EMP_social_conservative_party_long:0 "English Restoration Party"
+ EMP_authoritarian_democrat_party:0 "Union Party"
+ EMP_authoritarian_democrat_party_long:0 "British Unionist Party"
+ EMP_paternal_autocrat_party:0 "Blackshirts"
+ EMP_paternal_autocrat_party_long:0 "British Union of Fascists"
+ EMP_national_populist_party:0 "Anglican League"
+ EMP_national_populist_party_long:0 "Coalition of Conservative Anglican Bishops"
+
+ ##################################
+ # Country Names
+ ##################################
+ EMP_totalist:0 "England"
+ EMP_totalist_ADJ:0 "English"
+ EMP_totalist_DEF:0 "England"
+ EMP_syndicalist:0 "England"
+ EMP_syndicalist_ADJ:0 "English"
+ EMP_syndicalist_DEF:0 "England"
+ EMP_radical_socialist:0 "England"
+ EMP_radical_socialist_ADJ:0 "English"
+ EMP_radical_socialist_DEF:0 "England"
+ EMP_social_democrat:0 "English Kingdom"
+ EMP_social_democrat_ADJ:0 "English"
+ EMP_social_democrat_DEF:0 "English Kingdom"
+ EMP_social_liberal:0 "English Kingdom"
+ EMP_social_liberal_ADJ:0 "English"
+ EMP_social_liberal_DEF:0 "English Kingdom"
+ EMP_market_liberal:0 "English Kingdom"
+ EMP_market_liberal_ADJ:0 "English"
+ EMP_market_liberal_DEF:0 "English Kingdom"
+ EMP_social_conservative:0 "English Empire"
+ EMP_social_conservative_ADJ:0 "England"
+ EMP_social_conservative_DEF:0 "English Empire"
+ EMP_authoritarian_democrat:0 "United Kingdom"
+ EMP_authoritarian_democrat_ADJ:0 "English"
+ EMP_authoritarian_democrat_DEF:0 "United Kingdom"
+ EMP_paternal_autocrat:0 "Empire Loyalists"
+ EMP_paternal_autocrat_ADJ:0 "English"
+ EMP_paternal_autocrat_DEF:0 "Empire Loyalists"
+ EMP_national_populist:0 "Absolute Authority"
+ EMP_national_populist_ADJ:0 "Anglican"
+ EMP_national_populist_DEF:0 "Absolute Authority"
+ ##################################
+ # Leaders
+ ##################################
+ EMP_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
