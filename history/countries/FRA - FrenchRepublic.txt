@@ -91,10 +91,6 @@ set_politics = {
 	elections_allowed = no
 }
 
-create_faction = 
-
-add_to_faction = 
-
 
 
 add_ideas = { 
@@ -115,11 +111,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sébastien Faure"
+	name = "Victor Béliveau"
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
-	picture = "Portrait_France_Sebastien_Faure.tga"
+	picture = "FRA_Victor_Beliveau.tga"
 	expire = "1965.1.1"
-	ideology = totalist_subtype
+	ideology = national_populist
 	traits = {
 		#faure
 	}
@@ -170,12 +166,14 @@ create_country_leader = {
 ### Corps Commander
 
 create_field_marshal = {
-	name = "Jacques Duclos"
-	portrait_path = "gfx/leaders/FRA/Portrait_France_Jacques_Duclos.tga"
+	name = "Donald. J. Trump."
+	portrait_path = "gfx/leaders/FRA/FRA_Donald_J_Trump.tga"
 	traits = {
 		offensive_doctrine
+		fortress_buster
+		trait_engineer
 	}
-	skill = 3
+	skill = 4
 	id = 200
 }
 
