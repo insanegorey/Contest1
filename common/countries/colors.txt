@@ -7,3 +7,18 @@ FRA = {
 	color = rgb { 96 130 182 }
 	color_ui = rgb { 96 130 182 }
 }
+
+WLS = {
+	color = rgb { 185 56 46 }
+	color_ui = rgb {255 73 121}
+}
+
+STL = {
+	color = rgb { 185 56 46 }
+	color_ui = rgb {255 73 121}
+}
+
+IRL = {
+	color = rgb { 185 56 46 }
+	color_ui = rgb {255 73 121}
+}
