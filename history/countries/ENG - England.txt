@@ -24,6 +24,27 @@ set_technology = {
 	fleet_in_being = 1
 	battlefleet_concentration = 1
 }
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = WLS
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}	
+	set_autonomy = {
+		target = STL
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}
+	set_autonomy = {
+		target = IRL
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}
+}
+
 set_politics = {
 
 	parties = {

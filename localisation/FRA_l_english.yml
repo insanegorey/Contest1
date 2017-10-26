@@ -3,6 +3,26 @@
  france.1.d:0 "traps are gay"
  france.1.a:0 "i agree"
 
+ franceelect.1.t:0 "French Elections"
+ franceelect.1.d:0 "After the humiliating defeat of the great war, the world was devastated. Only europe survived the reckoning, europe is surrounded by the TAG menace. But alas, the elections are starting. and we are focusing right here."
+ franceelect.1.a:0 "To the winner go the spoils"
+
+ franceelect.2.t:0 "Elections are here"
+ franceelect.2.d:0 "Votes have been tallied... And the winner is.."
+ franceelect.2.a:0 "Désiré Gribelin! (Social Democrat)"
+ franceelect.2.b:0 "Bastien Micheaux! (Market Liberal)"
+ franceelect.2.c:0 "Victor Beliveau! (National Populist)"
+ franceelect.2.e:0 "Émile Bombelles! (Syndicalist)"
+
+ worldnews.97.t:0 "Désiré Gribelin Victorious"
+ worldnews.97.d:0 "Désire Gribelin just won the french election in a sweeping victory!"
+ worldnews.97.a:0 "Interesting."
+ worldnews.98.t:0 "Bastien Micheaux Victorious"
+ worldnews.98.d:0 "lol bastien won XD"
+ worldnews.98.a:0 "WOW WOW THAT'S REALLY INTERESTING"
+
+
+ 
  ##############################
  # French Parties
  ##############################
@@ -72,7 +92,7 @@
  ##################################################
  FRA_1936_election:0 "The 1936 Election"
  FRA_1936_election_desc:0 ""
- FRA_prime_minister_emille:0 "Prime Minister Emille"
+ FRA_prime_minister_emille:0 "President Emille"
  FRA_prime_minister_emille_desc:0 ""
  FRA_labor_relations_act:0 "Labour-Relations Act"
  FRA_labor_relations_act_desc:0 ""
@@ -80,8 +100,8 @@
  FRA_workers_security_desc:0 ""
  FRA_resource_nationalization:0 "Resource Nationalisation Act"
  FRA_resource_nationalization_desc:0 ""
- FRA_president_long:0 "President Long"
- FRA_president_long_desc:0 ""
+ FRA_president_victor:0 "President Victor"
+ FRA_president_victor_desc:0 ""
  FRA_long_farmer_relief:0 "Farmer Relief act"
  FRA_long_farmer_relief_desc:0 ""
  FRA_infastructure_building:0 "Long's Tariffs"
@@ -110,3 +130,4 @@
  FRA_banking_act_desc:0 ""
  FRA_wagner_act:0 "Compromise with Reed"
  FRA_wagner_act_desc:0 ""
+
