@@ -81,8 +81,8 @@
  RUS_social_conservative_party_long:0 "Conservatives"
  RUS_authoritarian_democrat_party:0 "Legitimists"
  RUS_authoritarian_democrat_party_long:0 "Legitimists"
- RUS_paternal_autocrat_party:0 "Royalists"
- RUS_paternal_autocrat_party_long:0 "Royalists"
+ RUS_paternal_autocrat_party:0 "Monarchists"
+ RUS_paternal_autocrat_party_long:0 "Monarchists"
  RUS_national_populist_party:0 "Fascists"
  RUS_national_populist_party_long:0 "Fascists"
  
@@ -102,8 +102,8 @@
  SOV_social_conservative_party_long:0 "Conservatives"
  SOV_authoritarian_democrat_party:0 "Legitimists"
  SOV_authoritarian_democrat_party_long:0 "Legitimists"
- SOV_paternal_autocrat_party:0 "Royalists"
- SOV_paternal_autocrat_party_long:0 "Royalists"
+ SOV_paternal_autocrat_party:0 "Monarchists"
+ SOV_paternal_autocrat_party_long:0 "Monarchists"
  SOV_national_populist_party:0 "Fascists"
  SOV_national_populist_party_long:0 "Fascists"
 
