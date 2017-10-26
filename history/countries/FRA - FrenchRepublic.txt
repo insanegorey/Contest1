@@ -115,7 +115,7 @@ create_country_leader = {
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
 	picture = "FRA_Victor_Beliveau.tga"
 	expire = "1965.1.1"
-	ideology = national_populist
+	ideology = national_populist_subtype
 	traits = {
 		#faure
 	}
@@ -126,7 +126,7 @@ create_country_leader = {
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
 	picture = "FRA_Bastien_Micheaux.tga"
 	expire = "1965.1.1"
-	ideology = market_liberal
+	ideology = market_liberal_subtype
 	traits = {
 		#faure
 	}
