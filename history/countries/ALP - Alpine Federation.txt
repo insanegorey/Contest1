@@ -1,6 +1,6 @@
 ﻿capital = 160
 
-#no oob needed
+oob = "SWI_1936"
 
 set_technology = {
 }
