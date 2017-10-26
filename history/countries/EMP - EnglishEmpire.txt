@@ -64,6 +64,7 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
 ### Starting Political Leaders ###
 create_country_leader = {# General Campbell
 	name = "General Campbell"
