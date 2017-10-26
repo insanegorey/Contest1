@@ -70,7 +70,7 @@ create_country_leader = {# General Campbell
 	desc = "ENG_Campbell_desc"
 	picture = "Portrait_England_General_Campbell.tga"
 	expire = "1965.1.1"
-	ideology = social_conservative
+	ideology = social_conservative_subtype
 	traits = { ww_one_trauma grand_battle_plan_expert }
 }
 
