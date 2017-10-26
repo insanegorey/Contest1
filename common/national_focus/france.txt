@@ -1,14 +1,343 @@
+###########################
+# FRA Focus Tree
+###########################
+
 focus_tree = {
-	id = french_focus
-	
+	id = FRA
 	country = {
 		factor = 0
-		
 		modifier = {
 			add = 10
 			tag = FRA
 		}
 	}
-	
 	default = no
-
+	
+###########################
+### 1936 Elections      ###
+###########################
+	focus = {# The 1936 Elections
+		id = FRA_1936_election
+		icon = GFX_goal_support_democracy
+		cost = 10.00
+		available = { always = no }
+		bypass = { has_country_flag = elections_1936_go_ahead }
+		x = 5
+		y = 0
+		completion_reward = {
+			custom_effect_tooltip = FRA_presidential_election_tooltip
+		}
+	}
+###President Reed ###
+	focus = {# Reed is President!
+		id = FRA_president_reed
+		icon = GFX_goal_FRA_president_reed
+		cost = 10.00
+		prerequisite = {
+			focus = FRA_1936_election
+		}
+		available = { always = no }
+		bypass = { has_country_flag = reed_elected }		
+		x = 0
+		y = 1
+		completion_reward = {
+			custom_effect_tooltip = FRA_reed_victory_tooltip
+			hidden_effect = {
+			if = {
+				limit = { NOT = { has_country_flag = macarthur_takes_over_september} }
+				FRA = { country_event = { id = ustates.500 days = 130 } }							
+				}								
+			}
+			
+		}
+	}
+	focus = {# The Labor-Relations Act
+		id = FRA_labor_relations_act
+		icon = GFX_goal_generic_soviet_construction
+		cost = 10
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_president_reed
+		}
+		x = 0
+		y = 2
+		completion_reward = {
+			swap_ideas = { remove_idea = FRA_black_monday add_idea = FRA_worst_is_over }
+		}
+	}
+	focus = {# Worker's Social Security
+		id = FRA_workers_security
+		icon = GFX_goal_syndicalism
+		cost = 6
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_labor_relations_act
+		}
+		x = 0
+		y = 3
+		completion_reward = {
+			add_political_power = 150
+		}
+	}
+	focus = {# Nationalize the Resources
+		id = FRA_resource_nationalization
+		icon = GFX_goal_syndicalist_industry
+		cost = 6
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_workers_security
+		}
+		x = 0
+		y = 4
+		completion_reward = {
+			country_event = { id = ustates.61 }
+		}
+	}
+###President Long###
+	focus = {# Long is President!
+		id = FRA_president_long
+		icon = GFX_goal_FRA_president_long
+		cost = 5.00
+		prerequisite = {
+			focus = FRA_1936_election
+		}
+		available = { always = no }
+		bypass = { has_country_flag = long_elected }
+		x = 2
+		y = 1
+		completion_reward = {
+			custom_effect_tooltip = FRA_long_victory_tooltip
+			hidden_effect = {
+			if = {
+				limit = { NOT = { has_country_flag = macarthur_takes_over_september} }
+				FRA = { country_event = { id = ustates.59 days = 120 } } 								
+				}								
+			}			
+		}
+	}
+	focus = {# Long's Farmer Relief program
+		id = FRA_long_farmer_relief
+		icon = GFX_goal_generic_construct_civilian
+		cost = 10
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_president_long
+		}
+		x = 2
+		y = 2
+		completion_reward = {
+			country_event = { id = ustates.39 }
+			swap_ideas = { remove_idea = FRA_black_monday add_idea = FRA_worst_is_over }
+		}
+	}
+	focus = {# Long's Tarrif
+		id = FRA_infastructure_building 
+		icon = GFX_goal_generic_trade
+		cost = 6
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_long_farmer_relief
+		}
+		x = 2
+		y = 3
+		completion_reward = {
+			country_event = { id = ustates.40 }
+			add_political_power = -10
+		}
+	}
+	focus = {# Coast to Coast Reform
+		id = FRA_longs_tarrifs
+		icon = GFX_goal_generic_construct_infrastructure
+		cost = 6
+		available = { NOT = { has_country_flag = macarthur_takes_over }}
+		cancel = { has_country_flag = macarthur_takes_over }
+		prerequisite = {
+			focus = FRA_infastructure_building
+		}
+		x = 2
+		y = 4
+		completion_reward = {
+			country_event = { id = ustates.43 }
+			add_political_power = -10
+		}
+	}
+###President Garner###
+	focus = {# Garner is President!
+		id = FRA_president_garner
+		icon = GFX_goal_FRA_president_garner
+		cost = 10.00
+		prerequisite = {
+			focus = FRA_1936_election
+		}
+		available = { always = no }
+		bypass = { has_country_flag = garner_elected }
+		x = 5
+		y = 1
+		completion_reward = {
+			custom_effect_tooltip = FRA_garner_victory_tooltip
+		}
+	}
+	focus = {# Expand the FBI
+		id = FRA_expand_the_fbi
+		icon = GFX_goal_generic_political_pressure
+		cost = 8
+		prerequisite = {
+			focus = FRA_president_garner
+		}
+		x = 4
+		y = 2
+		completion_reward = {
+			add_ideas = FRA_expanded_fbi
+		}
+	}
+	focus = {# New Alien and Sedition Acts
+		id = FRA_alien_sedition_acts
+		icon = GFX_goal_generic_more_territorial_claims
+		cost = 8
+		prerequisite = {
+			focus = FRA_expand_the_fbi
+		}
+		x = 4
+		y = 3
+		completion_reward = {
+			add_political_power = 150
+		}
+	}
+	focus = {# Protect the Banks
+		id = FRA_return_to_normalcy
+		icon = GFX_goal_anti_comintern_pact
+		cost = 6
+		prerequisite = {
+			focus = FRA_president_garner
+		}
+		x = 6
+		y = 2
+		completion_reward = {
+			swap_ideas = { remove_idea = FRA_black_monday add_idea = FRA_worst_is_over }
+		}
+	}
+	focus = {# Defend the Status Quo
+		id = FRA_radical_centrism
+		icon = GFX_focus_generic_anti_fascist_diplomacy
+		cost = 6
+		prerequisite = {
+			focus = FRA_return_to_normalcy
+		}
+		x = 6
+		y = 3
+		completion_reward = {
+			add_political_power = 50
+			add_popularity = { ideology = social_conservative popularity = 0.03 }
+			add_popularity = { ideology = market_liberal popularity = 0.03}
+			add_popularity = { ideology = social_democrat popularity = 0.03 }
+			add_popularity = { ideology = social_liberal popularity = 0.03 }
+		}
+	}
+	focus = {# Defend Democracy
+		id = FRA_defend_democracy
+		icon = GFX_goal_support_democracy
+		cost = 6
+		prerequisite = {
+			focus = FRA_alien_sedition_acts
+		}
+		prerequisite = {
+			focus = FRA_radical_centrism
+		}
+		x = 5
+		y = 4
+		completion_reward = {
+			add_national_unity = 0.05
+			add_political_power = 150
+		}
+	}
+###President Curtis###
+	focus = {# Curtis is President!
+		id = FRA_president_curtis
+		icon = GFX_goal_FRA_president_curtis
+		cost = 10.00
+		prerequisite = {
+			focus = FRA_1936_election
+		}
+		available = { always = no }
+		bypass = { has_country_flag = curtis_elected }
+		x = 9
+		y = 1
+		completion_reward = {
+			custom_effect_tooltip = FRA_curtis_victory_tooltip
+		}
+	}
+	focus = {# Economic Relief Bill
+		id = FRA_malice_chairty
+		icon = GFX_goal_generic_national_unity
+		cost = 8
+		prerequisite = {
+			focus = FRA_president_curtis
+		}
+		x = 8
+		y = 2
+		completion_reward = {
+			swap_ideas = { remove_idea = FRA_black_monday add_idea = FRA_worst_is_over }
+		}
+	}
+	focus = {# pass the civil liberties act.
+		id = FRA_support_aclu
+		icon = GFX_goal_continuous_def_against_influence
+		cost = 8
+		prerequisite = {
+			focus = FRA_president_curtis
+		}
+		x = 10
+		y = 2
+		completion_reward = {
+			add_national_unity = 0.05
+			add_political_power = 50
+		}
+	}
+	focus = {# Infrastructure bill
+		id = FRA_banking_act
+		icon = GFX_goal_generic_positive_trade_relations
+		cost = 6
+		prerequisite = {
+			focus = FRA_malice_chairty
+		}
+		prerequisite = {
+			focus = FRA_support_aclu
+		}
+		x = 9
+		y = 3
+		completion_reward = {
+			add_ideas = FRA_infrastructure_bill
+		}
+	}
+	focus = {# Pass the Wagner Act
+		id = FRA_wagner_act
+		icon = GFX_goal_generic_production
+		cost = 6
+		prerequisite = {
+			focus = FRA_banking_act
+		}
+		available = {
+            NOT = { country_exists = CSA }
+			OR = {
+				has_country_flag = reed_demands_all
+				has_country_flag = reed_demands_some
+			}
+		}		
+		x = 9
+		y = 4
+		completion_reward = {
+			if = {
+				limit = { has_country_flag = reed_demands_all }
+				add_ideas = curt_reed_yes		
+				}
+			if = {
+				limit = { has_country_flag = reed_demands_some }
+				add_ideas = curt_reed_some		
+				}
+		}	
+	}
