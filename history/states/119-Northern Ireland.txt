@@ -4,7 +4,7 @@ state = {
 	name="STATE_119"
 
 	history={
-		owner = TAG
+		owner = IRL
 		victory_points = {
 			3379 3
 		}
@@ -25,7 +25,7 @@ state = {
 
 		}
 		
-		add_core_of = TAG
+		add_core_of = IRL
 		 
 
 	}
