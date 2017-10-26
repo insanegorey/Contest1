@@ -31,21 +31,18 @@ focus_tree = {
 ###President Reed ###
 	focus = {# Reed is President!
 		id = FRA_prime_minister_emille
-		icon = GFX_goal_FRA_prime_minister_emille
+		icon = FRA_goal_emille
 		cost = 10.00
 		prerequisite = {
 			focus = FRA_1936_election
 		}
 		available = { always = no }
-		bypass = { has_country_flag = reed_elected }		
+		bypass = { has_country_flag = emille_elected }		
 		x = 0
 		y = 1
 		completion_reward = {
-			custom_effect_tooltip = FRA_reed_victory_tooltip
-			hidden_effect = {
-			if = {
-				limit = { NOT = { has_country_flag = macarthur_takes_over_september} }
-				FRA = { country_event = { id = ustates.500 days = 130 } }							
+			custom_effect_tooltip = FRA_emille_victory_tooltip
+			hidden_effect = {							
 				}								
 			}
 			
@@ -98,18 +95,18 @@ focus_tree = {
 	}
 ###President Long###
 	focus = {# Long is President!
-		id = FRA_president_long
-		icon = GFX_goal_FRA_president_long
+		id = FRA_president_victor
+		icon = FRA_goal_victor
 		cost = 5.00
 		prerequisite = {
 			focus = FRA_1936_election
 		}
 		available = { always = no }
-		bypass = { has_country_flag = long_elected }
+		bypass = { has_country_flag = victor_elected }
 		x = 2
 		y = 1
 		completion_reward = {
-			custom_effect_tooltip = FRA_long_victory_tooltip
+			custom_effect_tooltip = FRA_victor_victory_tooltip
 			hidden_effect = {
 			if = {
 				limit = { NOT = { has_country_flag = macarthur_takes_over_september} }
@@ -119,7 +116,7 @@ focus_tree = {
 		}
 	}
 	focus = {# Long's Farmer Relief program
-		id = FRA_long_farmer_relief
+		id = FRA_victor_farmer_relief
 		icon = GFX_goal_generic_construct_civilian
 		cost = 10
 		available = { NOT = { has_country_flag = macarthur_takes_over }}
@@ -141,7 +138,7 @@ focus_tree = {
 		available = { NOT = { has_country_flag = macarthur_takes_over }}
 		cancel = { has_country_flag = macarthur_takes_over }
 		prerequisite = {
-			focus = FRA_long_farmer_relief
+			focus = FRA_victor_farmer_relief
 		}
 		x = 2
 		y = 3
