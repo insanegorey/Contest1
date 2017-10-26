@@ -8,7 +8,6 @@ state = {
 
 	history={
 		owner = TAG
-		# owner = RUS
 		victory_points = {
 			12189 1
 		}
@@ -27,7 +26,6 @@ state = {
 
 		}
 		add_core_of = TAG
-		# add_core_of = RUS
 
 	}
 

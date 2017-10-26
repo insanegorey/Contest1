@@ -10,12 +10,11 @@ state = {
 		steel=4
 	}
 	history={
-		owner = RUS
+		owner = TAG
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = RUS
-		add_core_of = FIN
+		add_core_of = TAG
 	}
 
 	provinces={
