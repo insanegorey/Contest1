@@ -30,8 +30,8 @@ focus_tree = {
 	}
 ###President Reed ###
 	focus = {# Reed is President!
-		id = FRA_president_reed
-		icon = GFX_goal_FRA_president_reed
+		id = FRA_prime_minister_emille
+		icon = GFX_goal_FRA_prime_minister_emille
 		cost = 10.00
 		prerequisite = {
 			focus = FRA_1936_election
@@ -58,7 +58,7 @@ focus_tree = {
 		available = { NOT = { has_country_flag = macarthur_takes_over }}
 		cancel = { has_country_flag = macarthur_takes_over }
 		prerequisite = {
-			focus = FRA_president_reed
+			focus = FRA_prime_minister_emille
 		}
 		x = 0
 		y = 2
