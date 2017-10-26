@@ -1,5 +1,4 @@
 GER	= "countries/Germany.txt"
-ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
 SWE	= "countries/Sweden.txt"
 FRA	= "countries/France.txt"
@@ -114,14 +113,14 @@ MAN = "countries/Manchukou.txt"
 TAG = "countries/Placeholder.txt"
 #
 ### FlimsyPike
-EMP = "countries/EnglishEmpire.txt" # (Social Conservatives, London)
-YOR = ".txt" # (Paternal Autocrats, Yorkshire)
-MID = ".txt" # (Socialists, Midlands)
-ANG = ".txt" # (Liberal, Anglia)
-CRN = ".txt" # (Liberal, Cornwall)
-WLS = ".txt" # (Liberal, Wales)
-STL = ".txt" # (Authoritarian Democrat, Scotland)
-IRL = ".txt" # (Authoritarian Democrat, Ireland)
+ENG = "countries/England.txt" # (England)
+YOR = ".txt" # (Yorkshire)
+MID = ".txt" # (Midlands)
+ANG = ".txt" # (Anglia)
+CRN = ".txt" # (Cornwall)
+WLS = ".txt" # (Wales)
+STL = ".txt" # (Scotland)
+IRL = ".txt" # (Ireland)
 #
 ### Gorey
 ALP = ".txt" # Catholic Alpine Union
