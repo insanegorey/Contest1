@@ -98,5 +98,6 @@ create_country_leader = {
 		stout_defender
 		captain_of_industry
 		fortification_engineer
+		hedonist
 	}
 }
