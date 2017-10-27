@@ -22,14 +22,6 @@
  worldnews.98.a:0 "WOW WOW THAT'S REALLY INTERESTING"
 
 
-worldnews.999.t:0 "Norman Crowned Emperor of the TAG"
-worldnews.999.d:0 "Norman Has recently been crowned emperor of the TAG in kabul."
-worldnews.999.a:0 "WHAT DID YOU DO KEBBBB"
-
-norman.t:0 "Norton Seizes the Country!"
-norman.d:0 "The FUCK?"
-norman.a:0 "RENAME THE BRIDGE"
-
  
  ##############################
  # French Parties
@@ -235,6 +227,7 @@ norman.a:0 "RENAME THE BRIDGE"
 # Leaders
 ##################################
  ENG_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
+ ENG_Mosley_desc:0 "A misunderstood radical no longer, many turn to his economic reforms with hope; many more can envision a restored Empire. Will he lead England to greater heights and greater glories?"
 
 ##############################
 # Ireland
@@ -297,6 +290,7 @@ norman.a:0 "RENAME THE BRIDGE"
 # Leaders
 ##################################
  IRL_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
+ IRL_Kitchener_desc:0 "A proud and loyal servant to the Empire serving before WW1 and during the Empire's collapse, he watches bitterly as his order brakes down around him".
 
 ##############################
 # Wales.
@@ -359,6 +353,7 @@ WLS_national_populist_DEF:0 "Absolute Authority"
 # Leaders
 ##################################
 WLS_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
+WLS_Powell_desc:0 "Little is known of this young officer, promoted up the ranks as senior officers continued falling in battle; he finds himself leader of the Welsh Army and thus Wales itself".
 
 ##############################
 # Scotland
@@ -421,70 +416,15 @@ WLS_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence 
 # Leaders
 ##################################
  STL_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
-
-l_english:
- IRL.1.t:0 "French Republic"
- IRL.1.d:0 "traps are gay"
- IRL.1.a:0 "i agree"
-
-##############################
-# IRL Parties (note: most were taken from kebb's, so you'll have to change most.
-##############################
- IRL_totalist_party:0 "Totalists"
- IRL_totalist_party_long:0 "Irish Totalist Union"
- IRL_radical_socialist_party:0 "Anarchists"
- IRL_radical_socialist_party_long:0 "Anarchists"
- IRL_syndicalist_party:0 "Syndicalists"
- IRL_syndicalist_party_long:0 "Syndicalists"
- IRL_social_democrat_party:0 "Labour Party"
- IRL_social_democrat_party_long:0 "Irish Labour Party"
- IRL_social_liberal_party:0 "Liberal Democrats"
- IRL_social_liberal_party_long:0 "Liberal Democrats"
- IRL_market_liberal_party:0 "Libertarian Party"
- IRL_market_liberal_party_long:0 "Libertarian Party"
- IRL_social_conservative_party:0 "Conservatives"
- IRL_social_conservative_party_long:0 "Irish Restoration Party"
- IRL_authoritarian_democrat_party:0 "Union Party"
- IRL_authoritarian_democrat_party_long:0 "British Unionist Party"
- IRL_paternal_autocrat_party:0 "Blackshirts"
- IRL_paternal_autocrat_party_long:0 "British Union of Fascists"
- IRL_national_populist_party:0 "Anglican League"
- IRL_national_populist_party_long:0 "Coalition of Conservative Anglican Bishops"
-
+ STL_Christison_desc:0 "A talented officer who won awards during the First World War, Christison was earmarked for success. Can he give this success to Scotland?" 
 ##################################
-# Country Names
+# National Spirits and Politics Localization
 ##################################
- IRL_totalist:0 "Ireland"
- IRL_totalist_ADJ:0 "Irish"
- IRL_totalist_DEF:0 "Ireland"
- IRL_syndicalist:0 "Ireland"
- IRL_syndicalist_ADJ:0 "Irish"
- IRL_syndicalist_DEF:0 "Ireland"
- IRL_radical_socialist:0 "Ireland"
- IRL_radical_socialist_ADJ:0 "Irish"
- IRL_radical_socialist_DEF:0 "Ireland"
- IRL_social_democrat:0 "Irish Kingdom"
- IRL_social_democrat_ADJ:0 "Irish"
- IRL_social_democrat_DEF:0 "Irish Kingdom"
- IRL_social_liberal:0 "Irish Kingdom"
- IRL_social_liberal_ADJ:0 "Irish"
- IRL_social_liberal_DEF:0 "Irish Kingdom"
- IRL_market_liberal:0 "Irish Kingdom"
- IRL_market_liberal_ADJ:0 "Irish"
- IRL_market_liberal_DEF:0 "Irish Kingdom"
- IRL_social_conservative:0 "Irish Protectorate"
- IRL_social_conservative_ADJ:0 "Ireland"
- IRL_social_conservative_DEF:0 "Irish Protectorate"
- IRL_authoritarian_democrat:0 "United Kingdom"
- IRL_authoritarian_democrat_ADJ:0 "Irish"
- IRL_authoritarian_democrat_DEF:0 "United Kingdom"
- IRL_paternal_autocrat:0 "Empire Loyalists"
- IRL_paternal_autocrat_ADJ:0 "Irish"
- IRL_paternal_autocrat_DEF:0 "Empire Loyalists"
- IRL_national_populist:0 "Absolute Authority"
- IRL_national_populist_ADJ:0 "Anglican"
- IRL_national_populist_DEF:0 "Absolute Authority"
-##################################
-# Leaders
-##################################
- IRL_Campbell_desc:0 "A popular WW1 Officer, General Campbell used his influence in post inter-war England to unite the conservatives. A strong man, but has proven largely uneffective to halt the decline of England".
+mothballed_navy:0 "Mothballed Navy"
+mothballed_navy_desc:0 "The remnants of our Royal Navy, laying in a derelict state across various dry-docks across Britain"
+disgraced_military:0 "Disgraced Military"
+disgraced_military_desc:0 "Much of our officer cadre defected or lies dead on forgotten fields. Likewise our standards are captured and our arms disgarded. Most of our standing professional army are walking wounded"
+broken_nation:0 "Broken Nation"
+broken_nation_desc:0 "Workers strike often and the people demand reform"
+brightest_minds_dead:0 "Our fallen youth"
+brightest_minds_dead_desc:0 "We conscripted our finest to fight and die in the trenches, our nation's future inventions are buried among the bones".

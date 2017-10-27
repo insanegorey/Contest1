@@ -20,6 +20,7 @@ state = {
 
 		}
 		add_core_of = ALP
+		set_demilitarized_zone = yes
 		
 	}
 

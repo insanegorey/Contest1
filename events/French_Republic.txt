@@ -34,7 +34,6 @@ country_event = {# A Day in September
 	trigger = {
 		tag = FRA
 		date > 1936.9.25
-		NOT = { has_country_flag = EVNT_149 }
 	}
 
 	mean_time_to_happen = {
@@ -97,10 +96,10 @@ country_event = { # The 1936 Election
 			set_global_flag = ELECTIONS_1936
 		}
 		add_popularity = {
-			ideology = social_liberal
+			ideology = social_democrat
 			popularity = 0.2
 		}
-		set_politics = { ruling_party = social_liberal elections_allowed = no }
+		set_politics = { ruling_party = social_democrat elections_allowed = no }
 		hidden_effect = {
 			news_event = { id = worldnews.97 days = 1 }
 		}
@@ -184,43 +183,6 @@ country_event = { # The 1936 Election
 			random_other_country = {
 				news_event = { id = worldnews.22 days = 1 }
 			}
-		}
-	}
-}
-
-
-##########################################
-
-
-
-# Fascist Coup d'état
-country_event = {
-	id = norman
-	title = norman.t
-	desc = norman.d
-	picture = GFX_report_event_fascist_gathering
-	
-	trigger = {
-		tag = TAG
-	}
-
-	mean_time_to_happen = {
-		days = 1
-		modifier = {
-			factor = 0.5
-			paternal_autocrat > 0.4
-		}
-	}
-
-	immediate = {
-		hidden_effect = { remove_ideas = fascist_revolutionaries }
-	}
-	
-	option = {
-		name = norman.a
-		set_politics = {
-			ruling_party = paternal_autocratic
-			elections_allowed = no
 		}
 	}
 }

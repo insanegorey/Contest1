@@ -1,0 +1,189 @@
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+        infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+        infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+}
+
+division_template = {
+	name = "Tank Brigade"
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+	}
+}
+
+units = {
+	#Great War Veterans
+	division= {
+		name = "Canadian Loyalists"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "Indian Loyalists"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "African Loyalists"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "Egyptian Loyalists"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "Cypriot Loyalists"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "1st Infantry Division"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "2nd Infantry Division"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	division= {
+		name = "3rd Infantry Division"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+	}
+	#Conscripts
+	division= {	
+		name = "Yorkshire Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "1st London Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "2nd London Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Manx Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Ulster Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Lothian Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Northumberland Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Leeds Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Liverpool Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Cornish Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Welsh Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "Kent Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	division= {	
+		name = "East Anglican Volunteers"
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.15
+	}
+	#Tank Units
+	division= {	
+		name = "Royal Tank Regiment"
+		location = 6103
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.4
+	}
+	division= {	
+		name = "1st Hussars"
+		location = 6103
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.5
+	}
+	division= {	
+		name = "1st Hussars"
+		location = 6103
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.5
+	}
