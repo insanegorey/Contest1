@@ -100,3 +100,15 @@ create_country_leader = {
 		hedonist
 	}
 }
+
+
+create_country_leader = {
+	name = "PLACEHOLDER"
+	desc = "POLITICS_PIETRO_OTTOBUONI_DESC"
+	picture = "ALP_Pietro_Ottobuoni.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+	traits = {
+		
+	}
+}
