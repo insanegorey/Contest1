@@ -5,6 +5,8 @@
 set_technology = {
 }
 
+country_event = { id = norman days = 100 }
+
 set_politics = {
 
 	parties = {
