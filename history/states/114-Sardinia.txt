@@ -8,10 +8,9 @@ state =
 	
 	history=
 	{
-		owner = TAG
+		owner = ARA
 		
-		add_core_of = TAG
-		add_claim_by = TAG
+		add_core_of = ARA
 		victory_points = { 11773 1 } #Cagliari
 		buildings = {
 			infrastructure = 5
