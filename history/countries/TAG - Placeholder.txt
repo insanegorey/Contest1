@@ -39,6 +39,16 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Emperor Norman"
+	desc = "POLITICS_CHARLES_CURTIS_DESC"
+	picture = "TAG_Emperor_Norton.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {}
+	}
+}
+
 1939.1.1 = {
 	set_politics = {
 
