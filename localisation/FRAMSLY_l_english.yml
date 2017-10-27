@@ -26,9 +26,9 @@ worldnews.999.t:0 "Norman Crowned Emperor of the TAG"
 worldnews.999.d:0 "Norman Has recently been crowned emperor of the TAG in kabul."
 worldnews.999.a:0 "WHAT DID YOU DO KEBBBB"
 
-norman.t "Norton Seizes the Country!"
-norman.d "The FUCK?"
-norman.a "RENAME THE BRIDGE"
+norman.t:0 "Norton Seizes the Country!"
+norman.d:0 "The FUCK?"
+norman.a:0 "RENAME THE BRIDGE"
 
  
  ##############################

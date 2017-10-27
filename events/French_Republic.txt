@@ -203,7 +203,7 @@ country_event = { # The 1936 Election
 		tag = TAG
 		AND = {
 			OR = {
-				has_government = paternal_autocrat
+				has_government = totalist
 			}
 		}
 	}
