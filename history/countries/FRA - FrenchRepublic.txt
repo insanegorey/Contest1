@@ -85,7 +85,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = market_liberal
+	ruling_party = social_conservative
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -126,7 +126,7 @@ create_country_leader = {
 	desc = "POLITICS_SEBASTIEN_FAURE_DESC"
 	picture = "FRA_Bastien_Micheaux.tga"
 	expire = "1965.1.1"
-	ideology = market_liberal
+	ideology = market_liberal_subtype
 	traits = {
 		#faure
 	}
