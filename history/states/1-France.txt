@@ -7,10 +7,10 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
-		add_claim_by = TAG
+		owner = ARA
+		add_core_of = ARA
+		add_core_of = FRA
+		add_claim_by = FRA
 		victory_points = { 3838 1 }
 		buildings = {
 			infrastructure = 4
