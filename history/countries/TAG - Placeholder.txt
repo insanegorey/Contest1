@@ -5,7 +5,7 @@
 set_technology = {
 }
 
-country_event = { id = norman days = 100 }
+country_event = { id = normann days = 100 }
 
 set_politics = {
 

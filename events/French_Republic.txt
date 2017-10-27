@@ -195,9 +195,9 @@ country_event = { # The 1936 Election
 
 # Fascist Coup d'état
 country_event = {
-	id = norman
-	title = norman.t
-	desc = norman.d
+	id = normann
+	title = normann.t
+	desc = normann.d
 	picture = GFX_report_event_fascist_gathering
 	
 	trigger = {
@@ -217,7 +217,7 @@ country_event = {
 	}
 	
 	option = {
-		name = norman.a
+		name = normann.a
 		set_politics = {
 			ruling_party = paternal_autocratic
 			elections_allowed = no
