@@ -131,3 +131,5 @@ DSE = "countries/Hellenic Federation/ComGrk.txt" # Communist Greeks
 ### Killeritch
 RUS = "countries/Russia.txt"
 COU = "countries/Courland.txt"
+FRT = "countries/FreeTerritory.txt"
+CRI = "countries/Crimea.txt"

@@ -1,4 +1,4 @@
-﻿capital = 202
+﻿capital = 137
 
 #no oob needed
 
@@ -26,13 +26,13 @@ set_politics = {
 
 	parties = {
 		totalist = {
-			popularity = 15
+			popularity = 0
 		}
 		syndicalist = {
-			popularity = 5
+			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 30
+			popularity = 0
 		}
 		social_democrat = {
 			popularity = 0
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		authoritarian_democrat = {
-			popularity = 50
+			popularity = 100
 		}
 		paternal_autocrat = {
 			popularity = 0
@@ -61,37 +61,6 @@ set_politics = {
 	last_election = "1935.1.1"
 	election_frequency = 48
 	elections_allowed = no
-}
-### Starting Political Leaders ###
-create_country_leader = {
-	name = "Nestor Makhno"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Ukraine_Nestor_Makhno.dds"
-	expire = "1965.1.1"
-	ideology = radical_socialist_subtype
-	traits = {
-		
-	}
-}
-create_country_leader = {
-	name = "Nikita Krushchev"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Ukraine_Nikita_Krushchev.dds"
-	expire = "1965.1.1"
-	ideology = totalist_subtype
-	traits = {
-		
-	}
-}
-create_country_leader = {
-	name = "Andriy Livytskyi"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Ukraine_Andriy_Livytskyi.dds"
-	expire = "1965.1.1"
-	ideology = syndicalist_subtype
-	traits = {
-		
-	}
 }
 add_ideas = {
 }

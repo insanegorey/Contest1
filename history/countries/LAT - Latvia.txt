@@ -1,5 +1,7 @@
 ﻿capital = 12
 
+set_cosmetic_tag = LIV
+
 #no oob needed
 
 set_research_slots = 3

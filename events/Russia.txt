@@ -4,12 +4,12 @@
 # By Kebb
 ###########################
 
-add_namespace = russia
+add_namespace = RUS_breakup
 
 country_event = { # Finland declares independence
-	id = russia.1
-	title = russia.1.t
-	desc = russia.1.d
+	id = RUS_breakup.1
+	title = RUS_breakup.1.t
+	desc = RUS_breakup.1.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -19,7 +19,7 @@ country_event = { # Finland declares independence
 	}
 
 	option = {
-		name = russia.1.a
+		name = RUS_breakup.1.a
 		ai_chance = {
 			base = 100
 		}
@@ -27,14 +27,14 @@ country_event = { # Finland declares independence
 	}
 
 	option = {
-		name = russia.1.b
+		name = RUS_breakup.1.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.1.c
+		name = RUS_breakup.1.c
 		ai_chance = {
 			base = 0
 		}
@@ -46,9 +46,9 @@ country_event = { # Finland declares independence
 }
 
 country_event = { # Estonia declares independence
-	id = russia.2
-	title = russia.2.t
-	desc = russia.2.d
+	id = RUS_breakup.2
+	title = RUS_breakup.2.t
+	desc = RUS_breakup.2.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -58,7 +58,7 @@ country_event = { # Estonia declares independence
 	}
 
 	option = {
-		name = russia.2.a
+		name = RUS_breakup.2.a
 		ai_chance = {
 			base = 100
 		}
@@ -66,14 +66,14 @@ country_event = { # Estonia declares independence
 	}
 
 	option = {
-		name = russia.2.b
+		name = RUS_breakup.2.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.2.c
+		name = RUS_breakup.2.c
 		ai_chance = {
 			base = 0
 		}
@@ -85,9 +85,9 @@ country_event = { # Estonia declares independence
 }
 
 country_event = { # Latvia declares independence
-	id = russia.3
-	title = russia.3.t
-	desc = russia.3.d
+	id = RUS_breakup.3
+	title = RUS_breakup.3.t
+	desc = RUS_breakup.3.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -97,7 +97,7 @@ country_event = { # Latvia declares independence
 	}
 
 	option = {
-		name = russia.3.a
+		name = RUS_breakup.3.a
 		ai_chance = {
 			base = 100
 		}
@@ -105,14 +105,14 @@ country_event = { # Latvia declares independence
 	}
 
 	option = {
-		name = russia.3.b
+		name = RUS_breakup.3.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.3.c
+		name = RUS_breakup.3.c
 		ai_chance = {
 			base = 0
 		}
@@ -124,9 +124,9 @@ country_event = { # Latvia declares independence
 }
 
 country_event = { # Lithuania declares independence
-	id = russia.4
-	title = russia.4.t
-	desc = russia.4.d
+	id = RUS_breakup.4
+	title = RUS_breakup.4.t
+	desc = RUS_breakup.4.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -136,7 +136,7 @@ country_event = { # Lithuania declares independence
 	}
 
 	option = {
-		name = russia.4.a
+		name = RUS_breakup.4.a
 		ai_chance = {
 			base = 100
 		}
@@ -144,14 +144,14 @@ country_event = { # Lithuania declares independence
 	}
 
 	option = {
-		name = russia.4.b
+		name = RUS_breakup.4.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.4.c
+		name = RUS_breakup.4.c
 		ai_chance = {
 			base = 0
 		}
@@ -163,9 +163,9 @@ country_event = { # Lithuania declares independence
 }
 
 country_event = { # Courland declares independence
-	id = russia.5
-	title = russia.5.t
-	desc = russia.5.d
+	id = RUS_breakup.5
+	title = RUS_breakup.5.t
+	desc = RUS_breakup.5.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -175,7 +175,7 @@ country_event = { # Courland declares independence
 	}
 
 	option = {
-		name = russia.5.a
+		name = RUS_breakup.5.a
 		ai_chance = {
 			base = 100
 		}
@@ -183,14 +183,14 @@ country_event = { # Courland declares independence
 	}
 
 	option = {
-		name = russia.5.b
+		name = RUS_breakup.5.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.5.c
+		name = RUS_breakup.5.c
 		ai_chance = {
 			base = 0
 		}
@@ -202,9 +202,9 @@ country_event = { # Courland declares independence
 }
 
 country_event = { # Belarus declares independence
-	id = russia.6
-	title = russia.6.t
-	desc = russia.6.d
+	id = RUS_breakup.6
+	title = RUS_breakup.6.t
+	desc = RUS_breakup.6.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -214,7 +214,7 @@ country_event = { # Belarus declares independence
 	}
 
 	option = {
-		name = russia.6.a
+		name = RUS_breakup.6.a
 		ai_chance = {
 			base = 100
 		}
@@ -222,14 +222,14 @@ country_event = { # Belarus declares independence
 	}
 
 	option = {
-		name = russia.6.b
+		name = RUS_breakup.6.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.6.c
+		name = RUS_breakup.6.c
 		ai_chance = {
 			base = 0
 		}
@@ -241,9 +241,9 @@ country_event = { # Belarus declares independence
 }
 
 country_event = { # Ukraine declares independence
-	id = russia.7
-	title = russia.7.t
-	desc = russia.7.d
+	id = RUS_breakup.7
+	title = RUS_breakup.7.t
+	desc = RUS_breakup.7.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -253,7 +253,7 @@ country_event = { # Ukraine declares independence
 	}
 
 	option = {
-		name = russia.7.a
+		name = RUS_breakup.7.a
 		ai_chance = {
 			base = 100
 		}
@@ -261,14 +261,14 @@ country_event = { # Ukraine declares independence
 	}
 
 	option = {
-		name = russia.7.b
+		name = RUS_breakup.7.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.7.c
+		name = RUS_breakup.7.c
 		ai_chance = {
 			base = 0
 		}
@@ -280,9 +280,9 @@ country_event = { # Ukraine declares independence
 }
 
 country_event = { # Azerbaijan declares independence
-	id = russia.8
-	title = russia.8.t
-	desc = russia.8.d
+	id = RUS_breakup.8
+	title = RUS_breakup.8.t
+	desc = RUS_breakup.8.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -292,7 +292,7 @@ country_event = { # Azerbaijan declares independence
 	}
 
 	option = {
-		name = russia.8.a
+		name = RUS_breakup.8.a
 		ai_chance = {
 			base = 100
 		}
@@ -300,14 +300,14 @@ country_event = { # Azerbaijan declares independence
 	}
 
 	option = {
-		name = russia.8.b
+		name = RUS_breakup.8.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.8.c
+		name = RUS_breakup.8.c
 		ai_chance = {
 			base = 0
 		}
@@ -319,9 +319,9 @@ country_event = { # Azerbaijan declares independence
 }
 
 country_event = { # Georgia declares independence
-	id = russia.9
-	title = russia.9.t
-	desc = russia.9.d
+	id = RUS_breakup.9
+	title = RUS_breakup.9.t
+	desc = RUS_breakup.9.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -331,7 +331,7 @@ country_event = { # Georgia declares independence
 	}
 
 	option = {
-		name = russia.9.a
+		name = RUS_breakup.9.a
 		ai_chance = {
 			base = 100
 		}
@@ -339,14 +339,14 @@ country_event = { # Georgia declares independence
 	}
 
 	option = {
-		name = russia.9.b
+		name = RUS_breakup.9.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.9.c
+		name = RUS_breakup.9.c
 		ai_chance = {
 			base = 0
 		}
@@ -358,9 +358,9 @@ country_event = { # Georgia declares independence
 }
 
 country_event = { # Armenia declares independence
-	id = russia.10
-	title = russia.10.t
-	desc = russia.10.d
+	id = RUS_breakup.10
+	title = RUS_breakup.10.t
+	desc = RUS_breakup.10.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -370,7 +370,7 @@ country_event = { # Armenia declares independence
 	}
 
 	option = {
-		name = russia.10.a
+		name = RUS_breakup.10.a
 		ai_chance = {
 			base = 100
 		}
@@ -378,14 +378,14 @@ country_event = { # Armenia declares independence
 	}
 
 	option = {
-		name = russia.10.b
+		name = RUS_breakup.10.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.10.c
+		name = RUS_breakup.10.c
 		ai_chance = {
 			base = 0
 		}
@@ -397,9 +397,9 @@ country_event = { # Armenia declares independence
 }
 
 country_event = { # Poland declares independence
-	id = russia.11
-	title = russia.11.t
-	desc = russia.11.d
+	id = RUS_breakup.11
+	title = RUS_breakup.11.t
+	desc = RUS_breakup.11.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -409,7 +409,7 @@ country_event = { # Poland declares independence
 	}
 
 	option = {
-		name = russia.11.a
+		name = RUS_breakup.11.a
 		ai_chance = {
 			base = 100
 		}
@@ -417,14 +417,14 @@ country_event = { # Poland declares independence
 	}
 
 	option = {
-		name = russia.11.b
+		name = RUS_breakup.11.b
 		ai_chance = {
 			base = 0
 		}
 	}
 
 	option = {
-		name = russia.11.c
+		name = RUS_breakup.11.c
 		ai_chance = {
 			base = 0
 		}
@@ -436,9 +436,9 @@ country_event = { # Poland declares independence
 }
 
 country_event = { # Winter Palace stormed
-	id = russia.12
-	title = russia.12.t
-	desc = russia.12.d
+	id = RUS_breakup.12
+	title = RUS_breakup.12.t
+	desc = RUS_breakup.12.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
@@ -452,14 +452,14 @@ country_event = { # Winter Palace stormed
 	}
 	
 	option = {
-		name = russia.12.a
+		name = RUS_breakup.12.a
 		ai_chance = {
 			base = 100
 		}
 	}
 	
 	option = {
-		name = russia.12.b
+		name = RUS_breakup.12.b
 		ai_chance = {
 			base = 0
 		}
@@ -469,23 +469,114 @@ country_event = { # Winter Palace stormed
 	}
 }
 
+country_event = { # Makhno declares the Free Territory
+	id = RUS_breakup.13
+	title = RUS_breakup.13.t
+	desc = RUS_breakup.13.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		FRT = {
+			transfer_state = 200
+			transfer_state = 226
+			transfer_state = 227
+			transfer_state = 821
+			add_state_core = 200
+			add_state_core = 226
+			add_state_core = 227
+			add_state_core = 821
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.13.a
+		declare_war_on = { target = FRT type = annex_everything }
+		ai_chance = {
+			base = 100
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.13.b
+		ai_chance = {
+			base = 0
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.13.c
+		declare_war_on = { target = FRT type = annex_everything }
+		FRT = {
+			change_tag_from = RUS
+		}
+		ai_chance = {
+			base = 0
+		}
+	}
+}
+
+country_event = { # Crimea declares independence
+	id = RUS_breakup.14
+	title = RUS_breakup.14.t
+	desc = RUS_breakup.14.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		release = CRI
+	}
+
+	option = {
+		name = RUS_breakup.14.a
+		ai_chance = {
+			base = 100
+		}
+		declare_war_on = { target = CRI type = annex_everything }
+	}
+
+	option = {
+		name = RUS_breakup.14.b
+		ai_chance = {
+			base = 0
+		}
+	}
+
+	option = {
+		name = RUS_breakup.14.c
+		ai_chance = {
+			base = 0
+		}
+		declare_war_on = { target = CRI type = annex_everything }
+		CRI = {
+			change_tag_from = RUS
+		}
+	}
+}
+
 country_event = { # test event, all nations revolt at once
-	id = russia.100
-	title = russia.100.t
-	desc = russia.100.d
+	id = RUS_breakup.100
+	title = RUS_breakup.100.t
+	desc = RUS_breakup.100.d
 	picture = GFX_report_event_soviet_soldiers_tank
 
 	is_triggered_only = yes
 	
 	option = {
-		country_event = { id = russia.1 }
-		country_event = { id = russia.2 }
-		country_event = { id = russia.3 }
-		country_event = { id = russia.4 }
-		country_event = { id = russia.5 }
-		country_event = { id = russia.6 }
-		country_event = { id = russia.7 }
-		country_event = { id = russia.8 }
-		country_event = { id = russia.9 }
-		country_event = { id = russia.10 }
-		country_event = { id = russia.11 }
+		country_event = { id = RUS_breakup.1 }
+		country_event = { id = RUS_breakup.2 }
+		country_event = { id = RUS_breakup.3 }
+		country_event = { id = RUS_breakup.4 }
+		country_event = { id = RUS_breakup.5 }
+		country_event = { id = RUS_breakup.6 }
+		country_event = { id = RUS_breakup.7 }
+		country_event = { id = RUS_breakup.8 }
+		country_event = { id = RUS_breakup.9 }
+		country_event = { id = RUS_breakup.10 }
+		country_event = { id = RUS_breakup.11 }
+		country_event = { id = RUS_breakup.13 }
+		country_event = { id = RUS_breakup.14 }
+	}
+}

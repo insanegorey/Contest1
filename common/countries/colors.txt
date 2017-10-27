@@ -75,3 +75,11 @@ COU = {
 	color = rgb { 19 79 195 }
 	color_ui = rgb { 19 79 195 }
 }
+FRT = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
+CRI = {
+	color = rgb { 255 234 0 }
+	color_ui = rgb { 255 234 0 }
+}

@@ -1,4 +1,4 @@
-﻿capital = 202
+﻿capital = 200
 
 #no oob needed
 
@@ -26,13 +26,13 @@ set_politics = {
 
 	parties = {
 		totalist = {
-			popularity = 15
+			popularity = 0
 		}
 		syndicalist = {
-			popularity = 5
+			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 30
+			popularity = 100
 		}
 		social_democrat = {
 			popularity = 0
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		authoritarian_democrat = {
-			popularity = 50
+			popularity = 0
 		}
 		paternal_autocrat = {
 			popularity = 0
@@ -57,7 +57,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
+	ruling_party = radical_socialist
 	last_election = "1935.1.1"
 	election_frequency = 48
 	elections_allowed = no
