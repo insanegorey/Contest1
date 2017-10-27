@@ -43,7 +43,7 @@ set_technology = {
 	cv_naval_bomber1 = 1
 }
 
-create_wargoal = {
+	create_wargoal = {
 		type = take_state_focus
 		target = FRA
 		generator = { 1 } # France
@@ -82,14 +82,55 @@ set_politics = {
 
 set_national_unity = 0.70
 
+add_ideas = {
+	
+}
+
+
 
 create_country_leader = {
-	name = "Pietro Ottobuoni"
-	desc = "POLITICS_PIETRO_OTTOBUONI_DESC"
-	picture = "ALP_Pietro_Ottobuoni.tga"
+	name = "Severo Vittorio"
+	desc = "POLITICS_SEVERO_VITTORIO_DESC"
+	picture = "ALP_Severo_Vittoria.tga"
 	expire = "1965.1.1"
-	ideology = market_liberal_subtype
+	ideology = paternal_autocrat_subtype
 	traits = {
 		#needs change
 	}
 }
+
+create_country_leader = {
+	name = "Sandro Oddo"
+	desc = "POLITICS_SANDRO_ODDO_DESC"
+	picture = "ALP_Sandro_Oddo.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+	traits = {
+		#needs change
+	}
+}
+
+
+create_country_leader = {
+	name = "Faust"
+	desc = "POLITICS_Faust_DESC"
+	picture = "ALP_Faust.tga"
+	expire = "1965.1.1"
+	ideology = syndicalist_subtype
+	traits = {
+		#needs change
+	}
+}
+
+
+create_country_leader = {
+	name = "Marino Vincente"
+	desc = "POLITICS_MARINO_VINCENTE_DESC"
+	picture = "ALP_Marino_Vincente.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = {
+		#needs change
+	}
+}
+
