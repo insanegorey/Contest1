@@ -9,8 +9,8 @@ ENG = {
 }
 
 FRA = {
-	color = rgb { 96 130 182 }
-	color_ui = rgb { 96 130 182 }
+	color = rgb { 30 84 183 }
+	color_ui = rgb { 35 101 222 }
 }
 
 WLS = {

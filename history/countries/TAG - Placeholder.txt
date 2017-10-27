@@ -8,24 +8,30 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		paternal_autocrat = { 
+		totalist = {
+			popularity = 0
+		}
+		paternal_autocrat = {
 			popularity = 100
+		}
+		national_populist = {
+			popularity = 0
 		}
 	}
 	
-	ruling_party = paternal_autocracy
-	last_election = "1936.1.1"
+	ruling_party = paternal_autocrat
+	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 # Mohammad Hashim Khan (Prime Minister) other potential candidate
 create_country_leader = {
-	name = "Emperor Norton"
+	name = "some douche"
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
 	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = paternal_autocrat
 	traits = {
 		#
 	}
