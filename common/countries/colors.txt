@@ -75,11 +75,27 @@ COU = {
 	color = rgb { 19 79 195 }
 	color_ui = rgb { 19 79 195 }
 }
+CRI = {
+	color = rgb { 255 234 0 }
+	color_ui = rgb { 255 234 0 }
+}
+DON = {
+	color = rgb { 247 197 0 }
+	color_ui = rgb { 247 197 0 }
+}
 FRT = {
 	color = rgb { 0 0 0 }
 	color_ui = rgb { 0 0 0 }
 }
-CRI = {
-	color = rgb { 255 234 0 }
-	color_ui = rgb { 255 234 0 }
+KUB = {
+	color = rgb { 221 19 123 }
+	color_ui = rgb { 221 19 123 }
+}
+RNC = {
+	color = rgb { 19 112 189 }
+	color_ui = rgb { 19 112 189 }
+}
+TAM = {
+	color = rgb { 31 131 60 }
+	color_ui = rgb { 31 131 60 }
 }

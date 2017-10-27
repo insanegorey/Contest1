@@ -556,6 +556,167 @@ country_event = { # Crimea declares independence
 	}
 }
 
+country_event = { # Tambov Rebellion
+	id = RUS_breakup.15
+	title = RUS_breakup.15.t
+	desc = RUS_breakup.15.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		TAM = {
+			transfer_state = 257
+			transfer_state = 260
+			add_state_core = 257
+			add_state_core = 260
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.15.a
+		declare_war_on = { target = TAM type = annex_everything }
+		ai_chance = {
+			base = 100
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.15.b
+		ai_chance = {
+			base = 0
+		}
+	}
+	
+	option = {
+		name = RUS_breakup.15.c
+		declare_war_on = { target = TAM type = annex_everything }
+		TAM = {
+			change_tag_from = SOV
+		}
+		ai_chance = {
+			base = 0
+		}
+	}
+}
+
+country_event = { # Northern Caucasus declares independence
+	id = RUS_breakup.16
+	title = RUS_breakup.16.t
+	desc = RUS_breakup.16.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		release = RNC
+	}
+
+	option = {
+		name = RUS_breakup.16.a
+		ai_chance = {
+			base = 100
+		}
+		declare_war_on = { target = RNC type = annex_everything }
+	}
+
+	option = {
+		name = RUS_breakup.16.b
+		ai_chance = {
+			base = 0
+		}
+	}
+
+	option = {
+		name = RUS_breakup.16.c
+		ai_chance = {
+			base = 0
+		}
+		declare_war_on = { target = RNC type = annex_everything }
+		RNC = {
+			change_tag_from = RUS
+		}
+	}
+}
+
+country_event = { # Kuban declares independence
+	id = RUS_breakup.17
+	title = RUS_breakup.17.t
+	desc = RUS_breakup.17.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		release = KUB
+	}
+
+	option = {
+		name = RUS_breakup.17.a
+		ai_chance = {
+			base = 100
+		}
+		declare_war_on = { target = KUB type = annex_everything }
+	}
+
+	option = {
+		name = RUS_breakup.17.b
+		ai_chance = {
+			base = 0
+		}
+	}
+
+	option = {
+		name = RUS_breakup.17.c
+		ai_chance = {
+			base = 0
+		}
+		declare_war_on = { target = KUB type = annex_everything }
+		KUB = {
+			change_tag_from = RUS
+		}
+	}
+}
+
+country_event = { # Don declares independence
+	id = RUS_breakup.18
+	title = RUS_breakup.18.t
+	desc = RUS_breakup.18.d
+	picture = GFX_report_event_soviet_soldiers_tank
+
+	is_triggered_only = yes
+	
+	immediate = {
+		release = DON
+	}
+
+	option = {
+		name = RUS_breakup.18.a
+		ai_chance = {
+			base = 100
+		}
+		declare_war_on = { target = DON type = annex_everything }
+	}
+
+	option = {
+		name = RUS_breakup.18.b
+		ai_chance = {
+			base = 0
+		}
+	}
+
+	option = {
+		name = RUS_breakup.18.c
+		ai_chance = {
+			base = 0
+		}
+		declare_war_on = { target = DON type = annex_everything }
+		DON = {
+			change_tag_from = RUS
+		}
+	}
+}
+
 country_event = { # test event, all nations revolt at once
 	id = RUS_breakup.100
 	title = RUS_breakup.100.t
@@ -578,5 +739,9 @@ country_event = { # test event, all nations revolt at once
 		country_event = { id = RUS_breakup.11 }
 		country_event = { id = RUS_breakup.13 }
 		country_event = { id = RUS_breakup.14 }
+		country_event = { id = RUS_breakup.15 }
+		country_event = { id = RUS_breakup.16 }
+		country_event = { id = RUS_breakup.17 }
+		country_event = { id = RUS_breakup.18 }
 	}
 }

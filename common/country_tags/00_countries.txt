@@ -131,7 +131,12 @@ DSE = "countries/Hellenic Federation/ComGrk.txt" # Communist Greeks
 ### Killeritch
 RUS = "countries/Russia.txt"
 COU = "countries/Courland.txt"
-FRT = "countries/FreeTerritory.txt"
 CRI = "countries/Crimea.txt"
+DON = "countries/Don.txt"
+FRT = "countries/FreeTerritory.txt"
+KUB = "countries/Kuban.txt"
+RNC = "countries/NorthernCaucasus.txt"
+TAM = "countries/Tambov.txt"
+#
 ### Tsar Pixel
 ARA = "countries/Aragon.txt"
