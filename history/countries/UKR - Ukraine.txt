@@ -35,19 +35,19 @@ set_politics = {
 			popularity = 30
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 5
 		}
 		social_liberal = {
-			popularity = 0
+			popularity = 5
 		}
 		market_liberal = {
-			popularity = 0
+			popularity = 5
 		}
 		social_conservative = {
-			popularity = 0
+			popularity = 35
 		}
 		authoritarian_democrat = {
-			popularity = 50
+			popularity = 0
 		}
 		paternal_autocrat = {
 			popularity = 0
@@ -57,10 +57,10 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
-	last_election = "1935.1.1"
+	ruling_party = social_conservative
+	last_election = "1935.12.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 ### Starting Political Leaders ###
 create_country_leader = {
@@ -69,6 +69,28 @@ create_country_leader = {
 	picture = "Portrait_Ukraine_Nestor_Makhno.dds"
 	expire = "1965.1.1"
 	ideology = radical_socialist_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kost Levytsky"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1953.3.1"
+	ideology = social_conservative_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Stepan Bandera"
+	desc = ""
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+	expire = "1953.3.1"
+	ideology = national_populist_subtype
 	traits = {
 		
 	}

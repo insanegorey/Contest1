@@ -26,7 +26,7 @@ set_politics = {
 
 	parties = {
 		totalist = {
-			popularity = 0
+			popularity = 100
 		}
 		syndicalist = {
 			popularity = 0
@@ -47,7 +47,7 @@ set_politics = {
 			popularity = 0
 		}
 		authoritarian_democrat = {
-			popularity = 100
+			popularity = 0
 		}
 		paternal_autocrat = {
 			popularity = 0
@@ -57,10 +57,32 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
+	ruling_party = totalist
 	last_election = "1935.1.1"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Noe Zhordania"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Joseph Stalin"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Joseph_Stalin.dds"
+	expire = "1953.3.1"
+	ideology = totalist_subtype
+	traits = {
+		
+	}
 }
 add_ideas = {
 }

@@ -64,6 +64,28 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Karlis Ulmanis"
+	desc = "POLITICS_KARLIS_ULMANIS_DESC"
+	picture = "GFX_Portrait_latvia_karlis_ulmanis"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Gustavs Celmiņš"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	expire = "1965.1.1"
+	ideology = national_populist_subtype
+	traits = {
+		#
+	}
+}
 add_ideas = {
 }
 

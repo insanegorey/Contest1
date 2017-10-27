@@ -1,7 +1,7 @@
 ﻿###########################
 # Russia Events
 ###########################
-# By Kebb
+# By Killeritch
 ###########################
 
 add_namespace = RUS_breakup

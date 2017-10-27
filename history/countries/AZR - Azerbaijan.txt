@@ -38,16 +38,16 @@ set_politics = {
 			popularity = 0
 		}
 		social_liberal = {
-			popularity = 0
+			popularity = 10
 		}
 		market_liberal = {
-			popularity = 0
+			popularity = 10
 		}
 		social_conservative = {
-			popularity = 0
+			popularity = 60
 		}
 		authoritarian_democrat = {
-			popularity = 100
+			popularity = 20
 		}
 		paternal_autocrat = {
 			popularity = 0
@@ -57,10 +57,43 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
-	last_election = "1935.1.1"
+	ruling_party = social_conservative
+	last_election = "1935.12.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Mir Jafar Baghirov"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	expire = "1953.3.1"
+	ideology = totalist_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mammad Amin Rasulzade"
+	desc = ""
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1953.3.1"
+	ideology = social_conservative_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Gara Garabeyov"
+	desc = ""
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+	expire = "1953.3.1"
+	ideology = market_liberal_subtype
+	traits = {
+		
+	}
 }
 add_ideas = {
 }
