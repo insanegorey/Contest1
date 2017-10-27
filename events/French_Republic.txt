@@ -191,58 +191,58 @@ country_event = { # The 1936 Election
 
 ##########################################
 
-#country_event = { # The 1936 Election
-#	id = norman
-#	title = norman.t
-#	desc = norman.d
-#	picture = Capitol_building
-#
-#	fire_only_once = yes
-#
-#	trigger = {
-#		tag = TAG
-#		AND = {
-#			OR = {
-#				has_government = totalist
-#			}
-#		}
-#	}
-#
-#	mean_time_to_happen = {
-#		days = 1
-#	}
-#
-#	option = { # Charles Curtis (Republican - Market Liberalist)
-#		name = norman.a
-#
-#		ai_chance = {
-#			factor = 42
-#		}
-#		set_country_flag = norman_emperor
-#		hidden_effect = {
-#			kill_country_leader = yes
-#		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
-#		}
-#
-#		create_country_leader = {
-#		name = "Emperor Norman"
-#		desc = "POLITICS_CHARLES_CURTIS_DESC"
-#		picture = "TAG_Emperor_Norton.tga"
-#		expire = "1965.1.1"
-#		ideology = paternal_autocrat_subtype
-#		traits = {}
-#
-#}
-#		add_political_power = 20
-#		hidden_effect = {
-#		set_global_flag = bahbahblacksheep
-#		}		
-#		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
-#		hidden_effect = {
-#			news_event = { id = worldnews.999 days = 1 }
-#		}
-#	}
-#}
+country_event = { # The 1936 Election
+	id = norman
+	title = norman.t
+	desc = norman.d
+	picture = Capitol_building
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = TAG
+		AND = {
+			OR = {
+				has_government = totalist
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = { # Charles Curtis (Republican - Market Liberalist)
+		name = norman.a
+
+		ai_chance = {
+			factor = 42
+		}
+		set_country_flag = norman_emperor
+		hidden_effect = {
+			kill_country_leader = yes
+		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
+		}
+
+		create_country_leader = {
+		name = "Emperor Norman"
+		desc = "POLITICS_CHARLES_CURTIS_DESC"
+		picture = "TAG_Emperor_Norton.tga"
+		expire = "1965.1.1"
+		ideology = paternal_autocrat_subtype
+		traits = {}
+
+}
+		add_political_power = 20
+		hidden_effect = {
+		set_global_flag = bahbahblacksheep
+		}		
+		set_politics = { ruling_party = paternal_autocrat elections_allowed = no }
+		hidden_effect = {
+			news_event = { id = worldnews.999 days = 1 }
+		}
+	}
+}
 
 # Fascist Coup d'état
 country_event = {
