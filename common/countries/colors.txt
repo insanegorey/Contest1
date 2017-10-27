@@ -1,3 +1,8 @@
+LOL = {
+	color = rgb { 98 23 42 }
+	color_ui = rgb { 255 73 21 }
+}
+
 ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }

@@ -140,3 +140,5 @@ TAM = "countries/Tambov.txt"
 #
 ### Tsar Pixel
 ARA = "countries/Aragon.txt"
+###
+LOL = "countries/LaughingOutLoud"
