@@ -34,7 +34,6 @@ country_event = {# A Day in September
 	trigger = {
 		tag = FRA
 		date > 1936.9.25
-		NOT = { has_country_flag = EVNT_149 }
 	}
 
 	mean_time_to_happen = {
@@ -97,10 +96,10 @@ country_event = { # The 1936 Election
 			set_global_flag = ELECTIONS_1936
 		}
 		add_popularity = {
-			ideology = social_liberal
+			ideology = social_democrat
 			popularity = 0.2
 		}
-		set_politics = { ruling_party = social_liberal elections_allowed = no }
+		set_politics = { ruling_party = social_democrat elections_allowed = no }
 		hidden_effect = {
 			news_event = { id = worldnews.97 days = 1 }
 		}
@@ -186,6 +185,7 @@ country_event = { # The 1936 Election
 			}
 		}
 	}
+<<<<<<< HEAD
 }
 
 
@@ -224,3 +224,6 @@ country_event = {
 		}
 	}
 }
+=======
+}
+>>>>>>> 86bd3ceabb8b30b3b2d4dc17da3fa11b9a96d0b5

@@ -4,7 +4,7 @@ state = {
 	name="STATE_805" #Tlemcen
 
 	history={
-		owner = FRA
+		owner = TAG
 		add_core_of = TAG
 		 
 		buildings = {

@@ -1,6 +1,6 @@
 ﻿capital = 160
 
-oob = "ITA_1936" # Needs to change, current OOB too strong
+oob = "ITA_1936"
 
 set_technology = {
 ### MOD ###
@@ -80,16 +80,3 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_national_unity = 0.70
-
-
-create_country_leader = {
-	name = "Pietro Ottobuoni"
-	desc = "POLITICS_PIETRO_OTTOBUONI_DESC"
-	picture = "ALP_Pietro_Ottobuoni.tga"
-	expire = "1965.1.1"
-	ideology = market_liberal_subtype
-	traits = {
-		#needs change
-	}
-}
