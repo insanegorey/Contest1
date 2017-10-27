@@ -1,6 +1,6 @@
 capital = 126
 
-oob = ""
+oob = "ENG"
 
 set_research_slots = 1
 
@@ -9,7 +9,7 @@ set_national_unity = 0.25
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
-  marines = 1
+  	marines = 1
 	gw_artillery = 1
 	gwtank = 1
 	early_submarine = 1
@@ -91,11 +91,24 @@ create_country_leader = {# General Campbell
 	desc = "ENG_Campbell_desc"
 	picture = "Portrait_England_General_Campbell.tga"
 	expire = "1965.1.1"
-	ideology = social_conservative
+	ideology = social_conservative_subtype
 	traits = { ww_one_trauma grand_battle_plan_expert }
 }
 
-add_ideas = {
+create_country_leader = {# Sir Mosley
+	name = "Sir Mosley"
+	desc = "ENG_Mosley_desc"
+	picture = "Portrait_England_Sir_Mosley.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = { ww_one_trauma silent_workhorse}
+}
+
+add_ideas = { 
+	mothballed_navy 
+	disgraced_military 
+	broken_nation 
+	brightest_minds_dead 
 }
 
 set_convoys = 800

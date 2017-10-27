@@ -59,7 +59,7 @@ set_politics = {
 		}
 	}
 
-	ruling_party = social_conservative_subtype
+	ruling_party = social_conservative
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes
@@ -68,13 +68,26 @@ set_politics = {
 create_country_leader = {# General Campbell
 	name = "General Campbell"
 	desc = "WLS_Campbell_desc"
-	picture = "Portrait_England_General_Campbell.tga"
+	picture = "Portrait_Wales_General_Campbell.tga"
 	expire = "1965.1.1"
 	ideology = social_conservative_subtype
 	traits = { ww_one_trauma grand_battle_plan_expert }
 }
 
-add_ideas = {
+create_country_leader = {# Major Powell
+	name = "Major Powell"
+	desc = "WLS_Powell_desc"
+	picture = "Portrait_Wales_Major_Powell.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = { ww_one_trauma }
+}
+
+add_ideas = { 
+	mothballed_navy 
+	disgraced_military 
+	broken_nation 
+	brightest_minds_dead 
 }
 
 set_convoys = 200
