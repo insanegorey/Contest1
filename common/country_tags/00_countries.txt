@@ -113,10 +113,10 @@ MAN = "countries/Manchukou.txt"
 TAG = "countries/Placeholder.txt"
 #
 ### FlimsyPike
-ENG = "countries/England.txt" # (England)
-WLS = "countries/Wales.txt" # (Wales)
-STL = "countries/Scotland.txt" # (Scotland)
-IRL = "countries/Ireland.txt" # (Ireland)
+ENG = "countries/England.txt"
+WLS = "countries/Wales.txt"
+STL = "countries/Scotland.txt"
+IRL = "countries/Ireland.txt"
 #
 ### Gorey
 ALP = ".txt" # Catholic Alpine Union

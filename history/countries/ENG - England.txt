@@ -240,12 +240,7 @@ set_politics = {
 		market_liberal = {
 			popularity = 30
 		}
-		social_conservative = {
-			popularity = 0
-		}
-		authoritarian_democrat = {
-			popularity = 3
-		}
+
 		paternal_autocrat = {
 			popularity = 2
 		}
