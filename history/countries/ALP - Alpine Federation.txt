@@ -82,6 +82,11 @@ set_politics = {
 
 set_national_unity = 0.70
 
+add_ideas = {
+	free_trade
+	partial_economic_mobilisation
+	extensive_conscription
+}
 
 create_country_leader = {
 	name = "Pietro Ottobuoni"
@@ -90,6 +95,8 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = market_liberal_subtype
 	traits = {
-		#needs change
+		stout_defender
+		captain_of_industry
+		fortification_engineer
 	}
 }
