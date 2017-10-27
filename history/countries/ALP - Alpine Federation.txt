@@ -1,9 +1,8 @@
 ﻿capital = 160
 
-oob = "ITA_1936" # Needs to change, current OOB too strong
+oob = "ALP_1936" 
 
 set_technology = {
-### MOD ###
 	### General ###
 	shipbuild_basics = 1
 	
