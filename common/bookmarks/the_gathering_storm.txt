@@ -7,18 +7,14 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		
-		"FRA"={
+		"AUS"={
 			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = social_conservative
 			ideas = {
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
+				
 			}
 			focuses = {
-				FRA_initiate_government_reform
-				FRA_support_status_quo
-				FRA_revise_versailles
+				
 			}
 		}
 		"USA"={
@@ -63,34 +59,29 @@ bookmarks = {
 				GER_ussr_war_goal
 			}
 		}
-		"ITA"={
-			history = "ITA_GATHERING_STORM_DESC"
-			ideology = fascism
+		"ALP"={
+			history = "ALP_GATHERING_STORM_DESC"
+			ideology = market_liberal
 			ideas = {
-				vittoria_mutilata
-				victor_emmanuel
+				
 			}	
 			focuses = {
-				ITA_pact_of_steel
-				ITA_spanish_italian_faction
-				ITA_italy_first
+				
 			}		
 		}
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+		"GTU"={
+			history = "GTU_GATHERING_STORM_DESC"
+			ideology = # idk m8
 			ideas = {
-				state_shintoism
+				
 			}	
 			focuses = {
-				southern_expansion_focus
-				divine_wind_focus
-				found_own_faction_focus
+				
 			}			
 		}
 		"RUS"={
 			history = "RUS_GATHERING_STORM_DESC"
-			ideology = authoritarian_democrat
+			ideology = authoritarian_democrat #hey nice work Killeritch, you beat me here
 			ideas = {
 				#
 			}
@@ -105,7 +96,7 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		"POL"={
+		"FRA"={
 			minor = yes
 			history = "POL_GATHERING_STORM_DESC"
 			ideology = neutrality
