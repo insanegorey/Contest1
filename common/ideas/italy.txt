@@ -8,9 +8,9 @@ ideas = {
 			}
 			
 			modifier = {
-				production_speed_arms_factory_factor = -10.00
+				production_speed_arms_factory_factor = -0.70
 				production_speed_industrial_complex_factor = 0.20
-				industry_air_damage_factor = -0.75
+				industry_air_damage_factor = -0.50
 				research_time_factor = -0.15
 				production_speed_buildings_factor = 0.20
 			}
