@@ -40,7 +40,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Emperor Nortan"
+	name = "Emperor Nort0n"
 	desc = "POLITICS_CHARLES_CURTIS_DESC"
 	picture = "TAG_Emperor_Norton.tga"
 	expire = "1965.1.1"

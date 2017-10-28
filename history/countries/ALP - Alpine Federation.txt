@@ -42,12 +42,6 @@ set_technology = {
 	cv_naval_bomber1 = 1
 }
 
-create_wargoal = {
-		type = take_state_focus
-		target = FRA
-		generator = { 1 } # France
-	}
-
 set_politics = {
 
 	parties = {

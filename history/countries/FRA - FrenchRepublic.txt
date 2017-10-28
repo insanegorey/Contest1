@@ -46,7 +46,7 @@ set_technology = {
 	cv_naval_bomber1 = 1
 }
 
-country_event = { id = france.1 days = 1 }
+country_event = { id = france.2 days = 100 }
 set_convoys = 100
 set_national_unity = 0.8
 
