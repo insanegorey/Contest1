@@ -33,12 +33,10 @@ country_event = {# A Day in September
 
 	trigger = {
 		tag = FRA
-		date > 1936.9.25
-		NOT = { has_country_flag = EVNT_149 }
 	}
 
 	mean_time_to_happen = {
-		days = 1
+		days = 50
 	}
 
 	option = {
