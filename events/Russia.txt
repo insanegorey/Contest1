@@ -16,6 +16,9 @@ country_event = { # Finland declares independence
 	
 	immediate = {
 		release = FIN
+		FIN = {
+			load_oob = FIN_1936
+		}
 	}
 
 	option = {
@@ -55,6 +58,9 @@ country_event = { # Estonia declares independence
 	
 	immediate = {
 		release = EST
+		EST = {
+			load_oob = EST_1936
+		}
 	}
 
 	option = {
@@ -94,6 +100,9 @@ country_event = { # Latvia declares independence
 	
 	immediate = {
 		release = LAT
+		LAT = {
+			load_oob = LAT_LIV
+		}
 	}
 
 	option = {
@@ -133,6 +142,9 @@ country_event = { # Lithuania declares independence
 	
 	immediate = {
 		release = LIT
+		LIT = {
+			load_oob = LIT_1936
+		}
 	}
 
 	option = {
@@ -172,6 +184,9 @@ country_event = { # Courland declares independence
 	
 	immediate = {
 		release = COU
+		COU = {
+			load_oob = LAT_COU
+		}
 	}
 
 	option = {
