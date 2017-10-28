@@ -7,8 +7,18 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		
+		"ALP"={
+			history = "ALP_GATHERING_STORM_DESC"
+			ideology = market_liberal
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
 		"AUS"={
-			history = "FRA_GATHERING_STORM_DESC"
+			history = "AUS_GATHERING_STORM_DESC"
 			ideology = social_conservative
 			ideas = {
 				
@@ -17,9 +27,9 @@ bookmarks = {
 				
 			}
 		}
-		"USA"={
-			history = "USA_GATHERING_STORM_DESC"
-			ideology = democratic
+		"ITA"={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = social_conservative
 			ideas = {
 				
 			}
@@ -38,19 +48,6 @@ bookmarks = {
 			}
 		}
 
-		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = 
-			ideas = {
-				sour_loser
-				general_staff
-			}
-			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
-			}
-		}
 		"ARA"={
 			history = "ALP_GATHERING_STORM_DESC"
 			ideology = market_liberal
