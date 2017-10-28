@@ -80,7 +80,7 @@ bookmarks = {
 			history = "JAP_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
-				#
+				ARA_neopolitan_trust
 			}	
 			focuses = {
 				#
