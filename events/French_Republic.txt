@@ -193,34 +193,22 @@ country_event = { # The 1936 Election
 
 
 
-# Fascist Coup d'état
 country_event = {
-	id = norman
-	title = norman.t
-	desc = norman.d
-	picture = GFX_report_event_fascist_gathering
-	
-	trigger = {
-		tag = TAG
-	}
+    id = norman.1
+    title = norman.1.t
+    desc norman.1.d
+    picture = GFX_report_event_soviet_purge_politicians
 
-	mean_time_to_happen = {
-		days = 1
-		modifier = {
-			factor = 0.5
-			paternal_autocrat > 0.4
-		}
-	}
+    fire_only_once = yes
 
-	immediate = {
-		hidden_effect = { remove_ideas = fascist_revolutionaries }
-	}
-	
-	option = {
-		name = norman.a
-		set_politics = {
-			ruling_party = paternal_autocratic
-			elections_allowed = no
-		}
-	}
+    trigger = {
+        tag = TAG
+    }
+
+    option = {
+        name = norman.1.a
+        set_politics = { 
+            ruling_party = paternal_autocrat
+            elections_allowed = no
+    }
 }
