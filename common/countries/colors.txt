@@ -104,3 +104,7 @@ TAM = {
 	color = rgb { 31 131 60 }
 	color_ui = rgb { 31 131 60 }
 }
+ARA = {
+	color = rgb { 166 68 72 }
+	color_ui = rgb { 167 67 73 }
+}
