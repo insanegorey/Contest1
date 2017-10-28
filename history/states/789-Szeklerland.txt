@@ -7,13 +7,13 @@ state = {
 	state_category = rural
 
 	history={
-		owner = TAG
+		owner = AUS
 		buildings = {
 			infrastructure = 4
 		}
 
-		add_core_of = TAG
-		add_core_of = TAG
+		add_core_of = AUS
+		add_core_of = AUS
 	}
 
 	provinces={

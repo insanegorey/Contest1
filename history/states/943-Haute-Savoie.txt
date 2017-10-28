@@ -4,12 +4,12 @@ state = {
 	name="STATE_943"
 
 	history={
-		owner = TAG
+		owner = ITA
 		add_core_of=ITA
-		add_core_of=TAG
+		add_core_of=ITA
 		add_claim_by=SRI
 		buildings={
-			inTAGstructure=4
+			inITAstructure=4
 		}
 		victory_points={
 			778 1
