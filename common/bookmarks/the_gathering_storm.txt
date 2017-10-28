@@ -4,11 +4,11 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "FRA"
 		default = yes
 
 		"FRA"={
-			minor = yes
+			minor = no
 			history = "FRA_GATHERING_STORM_DESC"
 			ideology = social_conservative
 			ideas = {
@@ -87,6 +87,7 @@ bookmarks = {
 
 		# minors from DLC ####
 		"ALP"={
+            minor = yes
 			history = "ALP_GATHERING_STORM_DESC"
 			ideology = market_liberal
 			ideas = {
