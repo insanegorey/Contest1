@@ -108,3 +108,7 @@ ARA = {
 	color = rgb { 166 68 72 }
 	color_ui = rgb { 167 67 73 }
 }
+ITA = {
+	color = rgb { 39 177 78 }
+	color_ui = rgb { 40 176 79 }
+}
