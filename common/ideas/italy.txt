@@ -1,7 +1,7 @@
 ideas = {
 	country = {
 	
-		northern_industry = {
+		developed_industry = {
 		
 			allowed = {
 				always = yes
