@@ -7,98 +7,75 @@ bookmarks = {
 		default_country = "GER"
 		default = yes
 		
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+		"ALP"={
+			history = "ALP_GATHERING_STORM_DESC"
+			ideology = market_liberal
 			ideas = {
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
+				
 			}
 			focuses = {
-				FRA_initiate_government_reform
-				FRA_support_status_quo
-				FRA_revise_versailles
+				
 			}
 		}
-		"RUS"={
-			history = "RUS_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-				home_of_the_free
-				great_depression
-				undisturbed_isolation
-			}
-			focuses = {
-				USA_war_plan_black
-				USA_strike_at_the_empire
-				USA_pearl_harbor_gambit
-			}
-		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				george_v
-			}
-			focuses = {
-				tizard_mission_focus
-				ENG_war_with_germany
-				ENG_war_with_italy
-			}
-		}
-
 		"AUS"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+			history = "AUS_GATHERING_STORM_DESC"
+			ideology = social_conservative
 			ideas = {
-				sour_loser
-				general_staff
+				
 			}
 			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
+				
 			}
 		}
 		"ITA"={
 			history = "ITA_GATHERING_STORM_DESC"
-			ideology = fascism
+			ideology = social_conservative
 			ideas = {
-				vittoria_mutilata
-				victor_emmanuel
-			}	
-			focuses = {
-				ITA_pact_of_steel
-				ITA_spanish_italian_faction
-				ITA_italy_first
-			}		
-		}
-		"ALP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
-			ideas = {
-				state_shintoism
-			}	
-			focuses = {
-				southern_expansion_focus
-				divine_wind_focus
-				found_own_faction_focus
-			}			
-		}
-		"ARA"={
-			history = "SOV_GATHERING_STORM_DESC"
-			ideology = communism
-			ideas = {
-				trotskyite_plot
-				home_of_revolution
+				
 			}
 			focuses = {
-				SOV_great_purge
-				SOV_claims_on_baltic
-				SOV_war_with_uk
+				
+			}
+		}
+		"ENG"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = social_conservative
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		"ARA"={
+			history = "ALP_GATHERING_STORM_DESC"
+			ideology = market_liberal
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}		
+		}
+		"GTU"={
+			history = "GTU_GATHERING_STORM_DESC"
+			ideology = # idk m8
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}			
+		}
+		"RUS"={
+			history = "RUS_GATHERING_STORM_DESC"
+			ideology = authoritarian_democrat #hey nice work Killeritch, you beat me here
+			ideas = {
+				#
+			}
+			focuses = {
+				#
 			}	
 		}
 
@@ -108,23 +85,20 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		
-		
-		"YUG"={
+		"FRA"={
 			minor = yes
-			history = "YUG_GATHERING_STORM_DESC"
-			ideology = neutrality
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = social_conservative
 			ideas = {
-				anti_german_military
-				YUG_idea_croatian_opposition
-				YUG_idea_serbian_general_staff
+				
 			}
 			focuses = {
-				YUG_western_focus
-				YUG_abolish_the_monarchy
-				YUG_establish_the_banovina_of_croatia
+				FRA_being_loyal_to_venice
+				FRA_cede_territory_to_superior_venetian_masterrace
+				FRA_become_subject_of_venice
 			}
 		}
+		
 
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !

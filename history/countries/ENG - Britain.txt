@@ -96,7 +96,7 @@ create_country_leader = {# General Campbell
 }
 
 create_country_leader = {# Sir Mosley
-	name = "Sir Mosley"
+	name = "Sir Oswald Mosley"
 	desc = "ENG_Mosley_desc"
 	picture = "Portrait_England_Sir_Mosley.tga"
 	expire = "1965.1.1"
