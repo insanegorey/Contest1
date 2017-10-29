@@ -14,6 +14,7 @@ bookmarks = {
 			ideas = {
 				
 			}
+		}
 		"ALP"={
 			history = "ALP_GATHERING_STORM_DESC"
 			ideology = market_liberal
