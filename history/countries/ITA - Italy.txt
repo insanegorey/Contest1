@@ -65,4 +65,14 @@ set_politics = {
 add_ideas = {
 }
 
+create_country_leader = {
+	name = "Victor Emmanuel III"
+	desc = "POLITICS_FELIX_GOUIN_DESC"
+	picture = "gfx/leaders/ITA/Victor_Emmanuel_III.dds"
+	expire = "1949.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {
+	}
+
+	}
 set_convoys = 50
