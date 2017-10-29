@@ -6,12 +6,11 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_claim_by = TAG
-		add_core_of = TAG
-		
-		
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = FRA
+
+
 
 		victory_points = {
 			9909 5
@@ -20,7 +19,7 @@ state = {
 			inTAGstructure = 4
 		9909 = {
 				naval_base = 2
-			}		
+			}
 		}
 	}
 

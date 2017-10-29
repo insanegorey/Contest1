@@ -3,14 +3,14 @@ state = {
 	id=2
 	name="STATE_2" # Latium
 	manpower = 2691971
-	
+
 	state_category = city
 
 	history=
 	{
-		owner = TAG
-		add_core_of = TAG
-		add_claim_by = TAG
+		owner = ITA
+		add_core_of = ITA
+
 		victory_points = { 9904 40 }
 		buildings = {
 			infrastructure = 8
@@ -20,10 +20,10 @@ state = {
 			11751 = {
 				naval_base = 5
 			}
-			
+
 		}
-		
-		
+
+
 	}
 
 	provinces= {
