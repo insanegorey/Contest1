@@ -86,6 +86,21 @@ country_event = {
             }
         }
     }
+    option = {
+        name = france.2.f
+        set_global_flag = petain_elected
+        set_politics = { 
+            ruling_party = authoritarian_democrat
+            elections_allowed = no
+        }
+        hidden_effect = {
+            set_global_flag = petain_elected
+            news_event = { 
+                hours = 6 
+                id = frenchnews.5
+            }
+        }
+    }
 }
 
 
@@ -94,10 +109,110 @@ country_event = {
 
 
 
+#################################################
+#French Noos
+#################################################
 
 
+news_event = {
+    id = frenchnews.1
+    title = frenchnews.1.t
+    desc = frenchnews.1.d
+    picture = GFX_news_event_020
+    
+    major = yes
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = frenchnews.1.a
+        trigger = {
+            NOT = {
+                TAG = TAG
+            }
+        }
+    }
+}
 
+news_event = {
+    id = frenchnews.2
+    title = frenchnews.2.t
+    desc = frenchnews.2.d
+    picture = GFX_news_event_020
+    
+    major = yes
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = frenchnews.2.a
+        trigger = {
+            NOT = {
+                TAG = TAG
+            }
+        }
+    }
+}
 
+news_event = {
+    id = frenchnews.3
+    title = frenchnews.3.t
+    desc = frenchnews.3.d
+    picture = GFX_news_event_020
+    
+    major = yes
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = frenchnews.3.a
+        trigger = {
+            NOT = {
+                TAG = TAG
+            }
+        }
+    }
+}
+
+news_event = {
+    id = frenchnews.4
+    title = frenchnews.4.t
+    desc = frenchnews.4.d
+    picture = GFX_news_event_020
+    
+    major = yes
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = frenchnews.4.a
+        trigger = {
+            NOT = {
+                TAG = TAG
+            }
+        }
+    }
+}
+
+news_event = {
+    id = frenchnews.5
+    title = frenchnews.5.t
+    desc = frenchnews.5.d
+    picture = GFX_news_event_020
+    
+    major = yes
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = frenchnews.5.a
+        trigger = {
+            NOT = {
+                TAG = TAG
+            }
+        }
+    }
+}
 
 
 
