@@ -1,5 +1,5 @@
 ﻿l_english:
- RUS_GATHERING_STORM_DESC:0 "test test testicle"
+ RUS_GATHERING_STORM_DESC:0 "TL;DR: Russia's about to get fucked by a combination of Bolsheviks, Tsarists, and nationalist independence movements. Have fun! P.S. I was the first to put a desc, just I put it in a different file. Fuck you."
  ##############################
  # Russian Events
  ##############################
@@ -66,6 +66,23 @@
  RUS_breakup.100.t:0 "Russia collapses"
  RUS_breakup.100.d:0 "This is a dev event which makes all breakaway states declare independence"
  RUS_breakup.100.a:0 "Oh noes"
+ 
+ RUS_political.1.t:0 "Russia in 1936"
+ RUS_political.1.d:0 "Russia in 1936 stands on a precipice. The 1935 election failed to produce a decisive victory for one party, and now the Duma is split three ways between Bolsheviks, Federalists and Monarchists. President Kerensky remains the official leader of the country for now, but without a majority it will be very difficult for him to achieve anything. Will he form a coalition with one of the other parties, will he successfully govern as a minority administration, or will his government collapse and plunge Russia into civil war?"
+ RUS_political.1.a:0 "Russia is up for the challenge!"
+ 
+ ##############################
+ # Russian Focuses
+ ##############################
+ 
+ RUS_coalition:0 "Coalition Negotiations"
+ RUS_coalition_desc:0 "With only a minority of seats in the Duma, it will be almost impossible for the Federalists to govern alone. We should enter into negotiations with the Bolsheviks and Monarchists with a view to forming a coalition government with one of them."
+ RUS_minority:0 "Minority Government"
+ RUS_minority_desc:0 "The Federalists can operate a minority government. This government will find it hard to enact legislation but will at least not have to compromise with another party."
+ RUS_bolshevik_deal:0 "Federalist-Bolshevik Coalition Agreement"
+ RUS_bolshevik_deal_desc:0 "The Federalists and Bolsheviks have agreed to form a coalition. The formal agreement calls for improved workers' rights and nationalisation of some industries, along with increasing federalisation of the Russian state."
+ RUS_monarchist_deal:0 "Federalist-Monarchist Coalition Agreement"
+ RUS_monarchist_deal_desc:0 "The Federalists and Monarchists have agreed to form a coalition. The formal agreement will protect the rights of the nobility and lays down groundwork towards a potential restoration of the monarchy, along with increasing federalisation of the Russian state."
  
  ##############################
  # Russian Parties
@@ -810,3 +827,34 @@
  TAM_national_populist:0 "Tambov"
  TAM_national_populist_ADJ:0 "Tambov"
  TAM_national_populist_DEF:0 "Tambov"
+ 
+ COS_totalist:0 "Cossack Soviet Republic"
+ COS_totalist_ADJ:0 "Cossack"
+ COS_totalist_DEF:0 "The Cossack Soviet Republic"
+ COS_syndicalist:0 "Socialist Cossack Republic"
+ COS_syndicalist_ADJ:0 "Cossack"
+ COS_syndicalist_DEF:0 "The Socialist Cossack Republic"
+ COS_radical_socialist:0 "Socialist Cossack Republic"
+ COS_radical_socialist_ADJ:0 "Cossack"
+ COS_radical_socialist_DEF:0 "The Socialist Cossack Republic"
+ COS_social_democrat:0 "Cossack Republic"
+ COS_social_democrat_ADJ:0 "Cossack"
+ COS_social_democrat_DEF:0 "The Cossack Republic"
+ COS_social_liberal:0 "Cossack Republic"
+ COS_social_liberal_ADJ:0 "Cossack"
+ COS_social_liberal_DEF:0 "The Cossack Republic"
+ COS_market_liberal:0 "Cossack Republic"
+ COS_market_liberal_ADJ:0 "Cossack"
+ COS_market_liberal_DEF:0 "The Cossack Republic"
+ COS_social_conservative:0 "Cossack Republic"
+ COS_social_conservative_ADJ:0 "Cossack"
+ COS_social_conservative_DEF:0 "The Cossack Republic"
+ COS_paternal_autocrat:0 "Cossack State"
+ COS_paternal_autocrat_ADJ:0 "Cossack"
+ COS_paternal_autocrat_DEF:0 "The Cossack State"
+ COS_national_populist:0 "Cossack Union"
+ COS_national_populist_ADJ:0 "Cossack"
+ COS_national_populist_DEF:0 "The Cossack Union"
+ 
+ COS_subject:0 "Cossack Protectorate"
+ COS_subject_DEF:0 "The Cossack Protectorate"

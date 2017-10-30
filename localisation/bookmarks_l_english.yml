@@ -8,7 +8,7 @@
  ALP_GATHERING_STORM_DESC:0 "muh venice"
  ARA_GATHERING_STORM_DESC:0 "Sicily is not Italian."
  GTU_GATHERING_STORM_DESC:0 "muh byzantium"
- RUS_GATHERING_STORM_DESC:0 "Killeritch, come on son, put a desc here."
+ # RUS_GATHERING_STORM_DESC:0 no russia description here, i'm putting it in a different file to minimise update clash
  FRA_GATHERING_STORM_DESC:0 "Kebb is a huge fucking nerd."
  AUS_GATHERING_STORM_DESC:0 "Austria got fucked."
  ITA_GATHERING_STORM_DESC:0 "Insert Risorgimento joke here."

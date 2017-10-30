@@ -1,0 +1,9 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			RUS = {
+				country_event = { id = RUS_political.1 }
+			}
+		}
+	}
+}

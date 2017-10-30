@@ -78,7 +78,7 @@ bookmarks = {
 		}
 		"RUS"={
 			history = "RUS_GATHERING_STORM_DESC"
-			ideology = authoritarian_democrat #hey nice work Killeritch, you beat me here
+			ideology = social_liberal #hey nice work Killeritch, you beat me here
 			ideas = {
 				#
 			}

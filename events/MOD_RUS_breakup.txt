@@ -1,5 +1,5 @@
 ﻿###########################
-# Russia Events
+# Russia Breakup Events
 ###########################
 # By Killeritch
 ###########################
@@ -741,6 +741,7 @@ country_event = { # test event, all nations revolt at once
 	is_triggered_only = yes
 	
 	option = {
+		name = RUS_breakup.100.a
 		country_event = { id = RUS_breakup.1 }
 		country_event = { id = RUS_breakup.2 }
 		country_event = { id = RUS_breakup.3 }

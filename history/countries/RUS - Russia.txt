@@ -70,7 +70,7 @@ set_politics = {
 	}
 	
 	ruling_party = social_liberal
-	last_election = "1932.6.1"
+	last_election = "1935.12.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
