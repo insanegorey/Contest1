@@ -104,3 +104,23 @@ TAM = {
 	color = rgb { 31 131 60 }
 	color_ui = rgb { 31 131 60 }
 }
+GTU = {
+	color = rgb { 13  131  227 }
+	color_ui = rgb { 13  131  227 }
+}
+DSE = {
+	color = rgb { 56  44  262 }
+	color_ui = rgb { 56  44  262 }
+}
+MGR = {
+	color = rgb { 16  34  282 }
+	color_ui = rgb { 16  34  282 }
+}
+GRM = {
+	color = rgb { 36  64  242 }
+	color_ui = rgb { 36  64  242 }
+}
+PHO = {
+	color = rgb { 66  94  212 }
+	color_ui = rgb { 66  94  212 }
+}

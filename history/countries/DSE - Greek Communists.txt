@@ -57,20 +57,23 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = authoritarian_democrat
+	ruling_party = totalist
 	last_election = "1935.11.14"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 ### Starting Political Leaders ###
-create_country_leader = { # Chancellor Themistoklis Sophoulis
-	name = "Themistoklis Sophoulis"
-	desc = "GTU_them_soph_desc"
-	picture = "Portrait_England_General_Campbell.tga"
+create_country_leader = {
+	name = "Nikos Zachariadis"
+	desc = "POLITICS_NIKOS_PLOUMPIDIS_DESC"
+	picture = "Portrait_GRE_Nikos_Ploumpidis.tga"
 	expire = "1965.1.1"
-	ideology = authoritarian_democrat
-	traits = { }
+	ideology = totalist_subtype
+	traits = {
+		#
+	}
 }
+
 add_ideas = {
 }
 

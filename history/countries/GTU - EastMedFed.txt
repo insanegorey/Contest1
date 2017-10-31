@@ -96,12 +96,21 @@ if = {
 }
 
 ### Starting Political Leaders ###
-create_country_leader = { # Chancellor Themistoklis Sophoulis
+create_country_leader = {
 	name = "Alexandros Papagos"
 	desc = "GTU_them_soph_desc"
-	picture = "Portrait_GRE_Alexandros_Papagos"
+	picture = "Portrait_GRE_Alexandros_Papagos.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democrat_subtype
+	traits = { }
+}
+
+create_country_leader = {
+	name = "King Paul"
+	desc = "GTU_them_soph_desc"
+	picture = "Portrait_GRE_Alexandros_Papagos.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
 	traits = { }
 }
 
@@ -128,9 +137,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ioannis Metaxas"
-	desc = "POLITICS_IOANNIS_METAXAS_DESC"
-	picture = "Portrait_Greece_Ioannis_Metaxas.dds"
+	name = "Nikos Ploumpidis"
+	desc = "POLITICS_NIKOS_PLOUMPIDIS_DESC"
+	picture = "Portrait_GRE_Nikos_Ploumpidis.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialist_subtype
 	traits = {

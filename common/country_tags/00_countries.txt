@@ -122,11 +122,11 @@ IRL = "countries/Ireland.txt"
 ALP = ".txt" # Catholic Alpine Union
 #
 ### Miah
-GTU = "countries/Hellenic Federation/EastMedFed.txt" # Hellenic Federation
-GRM = "countries/Hellenic Federation/GrkMags.txt" # Greek Magnates
-MGR = "countries/Hellenic Federation/MegGrk.txt" # Megali Greece
-PHO = "countries/Hellenic Federation/PhoGrk.txt" # Phonecians
-DSE = "countries/Hellenic Federation/ComGrk.txt" # Communist Greeks
+GTU = "countries/HellenicFederation/EastMedFed.txt" # Hellenic Federation
+GRM = "countries/HellenicFederation/GrkMags.txt" # Greek Magnates
+MGR = "countries/HellenicFederation/MegGrk.txt" # Megali Greece
+PHO = "countries/HellenicFederation/PhoGrk.txt" # Phonecians
+DSE = "countries/HellenicFederation/ComGrk.txt" # Communist Greeks
 #
 ### Killeritch
 RUS = "countries/Russia.txt"
