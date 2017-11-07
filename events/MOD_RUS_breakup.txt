@@ -748,13 +748,13 @@ country_event = { # test event, all nations revolt at once
 		country_event = { id = RUS_breakup.4 }
 		country_event = { id = RUS_breakup.5 }
 		country_event = { id = RUS_breakup.6 }
-		country_event = { id = RUS_breakup.7 }
+#		country_event = { id = RUS_breakup.7 } # ukraine - we don't want this now they're independent
 		country_event = { id = RUS_breakup.8 }
 		country_event = { id = RUS_breakup.9 }
 		country_event = { id = RUS_breakup.10 }
 		country_event = { id = RUS_breakup.11 }
-		country_event = { id = RUS_breakup.13 }
-		country_event = { id = RUS_breakup.14 }
+#		country_event = { id = RUS_breakup.13 } # free territory - we don't want this now that land is in ukraine
+#		country_event = { id = RUS_breakup.14 } # crimea - we don't want this now ukraine owns them
 		country_event = { id = RUS_breakup.15 }
 		country_event = { id = RUS_breakup.16 }
 		country_event = { id = RUS_breakup.17 }

@@ -460,233 +460,6 @@ units = {
 
 	##### Yugo-Zapadnaya Teatr VD (South West TVD) -- Kyiv, Dnipropetrovsk #####				
 	#### Kiev Voennyii Okrug (Kiev Military District) -- Kiev ####
-	# 8ya Strelkoviy Korpus		
-	division= {			
-		name = "24ya 'Samaro-Ulyanovsk' Strelk. Div."		
-		location = 215
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "46ya Strelkovaya Diviziya"		
-		location = 9554
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "58ya Gornostrelkovaya Diviziya"		
-		location = 9493
-		division_template = "Gornostrelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "99ya Strelkovaya Diviziya"		
-		location = 3470
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 15ya Strelkoviy Korpus		
-	division= {			
-		name = "15ya 'Sivashskaya' Strelk. Div."		
-		location = 3511
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "51ya 'Perekopskaya' Strelk. Div."		
-		location = 6509
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "96ya 'Vinnitskaya' Strelk. Div."		
-		location = 462
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 1ya Kavaleriyskiy Korpus		
-	division= {			
-		name = "1ya 'Chernigov' Kav. Div."		
-		location = 3430
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "3ya 'Bessarabskaya' Kav. Div."		
-		location = 6455
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 2ya Kavaleriyskiy Korpus		
-	division= {			
-		name = "9ya 'Krymskiy' Kav. Div."		
-		location = 525
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "31ya Kavaleriyskaya Diviziya"		
-		location = 525
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-
-	# Subordinate to VO
-	division= {			
-		name = "2ya KiVO Mekhanizirovanaya Gruppa"		
-		location = 525
-		division_template = "Mekhanizirovaniy Korpus"		# 1x Tank Bge, 2x Mekh Bge
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 6ya Strelkoviy Korpus		
-	division= {			
-		name = "7ya 'Chernigovskaya' Strelk. Div."		
-		location = 9423
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "44ya 'Kyiv' Strelk. Div."		
-		location = 9576
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "95ya 'Moldavskaya' Strelk. Div."		
-		location = 754
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "1ya KiVO Mekhanizirovanaya Gruppa"		
-		location = 11670
-		division_template = "Mekhanizirovaniy Korpus"		# 1x H Tank Bge, 2x Mekh Bge
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 17ya Strelkoviy Korpus		
-	division= {			
-		name = "60ya 'Kavkazskaya' Gornostrelk. Div."		
-		location = 741
-		division_template = "Gornostrelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "62ya 'Turkestanskaya' Strelk. Div."		
-		location = 11670
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "100ya Strelkovaya Diviziya"		
-		location = 11670
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# 5ya Kavaleriyskiy Korpus		
-	division= {			
-		name = "5ya 'Bleanov' Kav. Div."		
-		location = 11437
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "14ya 'Bessarabskaya' Kav. Div."		
-		location = 11437
-		division_template = "Kavaleriyskaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-
-	# Subordinate to VO
-	division= {			
-		name = "45ya Mekhanizirovaniy Korpus"		
-		location = 11437
-		division_template = "Mekhanizirovaniy Korpus"		# 2x Mekh Bge, 1x Mot Bge
-		start_experience_factor = 0.3
-	}
-
-
-	#### Kharkov Voenniy Okrug (Kharkov Military District) -- Kharkov ####
-	# 7ya Strelkoviy Korpus		
-	division= {			
-		name = "3ya 'Krymskaya' Strelk. Div."		
-		location = 418
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "25ya 'Chapayevskaya' Strelk. Div."		
-		location = 418
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}			
-	division= {			
-		name = "30ya 'Irkutsk' Strelk. Div."		
-		location = 418
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
-	division= {			
-		name = "41ya Strelkovaya Diviziya"		
-		location = 418
-		division_template = "Strelkovaya Diviziya"
-		start_experience_factor = 0.2
-		start_equipment_factor = 0.85
-
-	}
 
 	# 14ya Strelkoviy Korpus		
 	division= {			
@@ -798,7 +571,7 @@ units = {
 	# 9ya Territorial'niy Korpus
 	division= {			
 		name = "10ya 'Severnogo Kraya' Strelk. Div."		
-		location = 3686
+		location = 6741
 		division_template = "Strelkovaya Diviziya"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.85
@@ -806,7 +579,7 @@ units = {
 	}			
 	division= {			
 		name = "13ya 'Dagestanskaya' Strelk. Div."		
-		location = 3686
+		location = 6741
 		division_template = "Strelkovaya Diviziya"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.85
@@ -814,7 +587,7 @@ units = {
 	}			
 	division= {			
 		name = "22ya 'Krasnodarskaya' Strelk. Div."		
-		location = 3686
+		location = 6741
 		division_template = "Strelkovaya Diviziya"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.85
@@ -831,7 +604,7 @@ units = {
 	}			
 	division= {			
 		name = "38ya 'Donskaya' Strelk. Div."		
-		location = 3686
+		location = 6741
 		division_template = "Strelkovaya Diviziya"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.85
@@ -841,7 +614,7 @@ units = {
 	# 7ya Kavaleriyskiy Korpus		
 	division= {			
 		name = "10ya Kavaleriyskaya Diviziya"		
-		location = 6474
+		location = 6493
 		division_template = "Kavaleriyskaya Diviziya"
 		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
 		start_experience_factor = 0.1
@@ -850,7 +623,7 @@ units = {
 	}
 	division= {			
 		name = "12ya 'Kubanskaya' Kav. Div."		
-		location = 6474
+		location = 6493
 		division_template = "Kavaleriyskaya Diviziya"
 		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
 		start_experience_factor = 0.1
@@ -859,7 +632,7 @@ units = {
 	}
 	division= {			
 		name = "13ya 'Kubanskaya' Kav. Div."		
-		location = 6474
+		location = 6493
 		division_template = "Kavaleriyskaya Diviziya"
 		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
 		start_experience_factor = 0.1
@@ -868,7 +641,7 @@ units = {
 	}
 	division= {			
 		name = "15ya 'Donskaya' Kav. Div."		
-		location = 6474
+		location = 6493
 		division_template = "Kavaleriyskaya Diviziya"
 		force_equipment_variants = { infantry_equipment_0 = { owner = "RUS" } }
 		start_experience_factor = 0.1
@@ -1002,56 +775,34 @@ units = {
 		ship = { name = "Shch-309" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
 	}
 
-	### Black Sea Fleet -- Sevastopol
-	navy = {	
-		name = "Chernomorskiy Flot"
-		base = 3686
-		location = 3686 # Sevastopopl
-		ship = { name = "Parizhskaya Kommuna" definition = battleship equipment = { battleship_1 = { amount = 1 owner = RUS } } }
-		ship = { name = "Krasni Kavkaz" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = RUS } } }
-		ship = { name = "Krasny Krym" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = RUS } } }
-		ship = { name = "Chervonaya Ukraina" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = RUS } } }
-		ship = { name = "Komintern" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = RUS } } }
-	}	
-	navy = {	
-		name = "Chernomorskiy Podvodniy Flot"
-		base = 3686
-		location = 3686 # Sevastopopl
-		# 9iy Podvodniy Flot
-		ship = { name = "Shch-121" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-122" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-123" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-124" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-	}	
-
-	### Pacific Fleet -- Vladivostok
-	navy = {	
-		name = "Tikhookeanskiy Flot"
-		base = 957
-		location = 957 # Vladivostok
-		# 8ya Flotiliya Esmintsev
-		ship = { name = "Uritskiy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RUS } } }
-		ship = { name = "Stalin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RUS } } }
-	}	
-	navy = {	
-		name = "Tihookyeanskiy Podvodniy Flot"
-		base = 957
-		location = 957 # Vladivostok
-		# 10iy Podvodniy Flot
-		ship = { name = "Shch-101" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-102" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-103" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-104" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-105" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-106" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		# 11iy Podvodniy Flot
-		ship = { name = "Shch-107" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-108" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-109" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-110" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-111" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-		ship = { name = "Shch-112" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
-	}		
+#	### Pacific Fleet -- Vladivostok # Russia doesn't own Vladivostock in this mod atm
+#	navy = {	
+#		name = "Tikhookeanskiy Flot"
+#		base = 957
+#		location = 957 # Vladivostock
+#		# 8ya Flotiliya Esmintsev
+#		ship = { name = "Uritskiy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RUS } } }
+#		ship = { name = "Stalin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RUS } } }
+#	}	
+#	navy = {	
+#		name = "Tihookyeanskiy Podvodniy Flot"
+#		base = 957
+#		location = 957 # Vladivostock
+#		# 10iy Podvodniy Flot
+#		ship = { name = "Shch-101" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-102" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-103" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-104" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-105" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-106" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		# 11iy Podvodniy Flot
+#		ship = { name = "Shch-107" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-108" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-109" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-110" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-111" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#		ship = { name = "Shch-112" definition = submarine equipment = { submarine_1 = { amount = 1 owner = RUS } } }			
+#	}		
 }					
 
 ### Air Wings
@@ -1105,21 +856,6 @@ air_wings = {
 		}
 	}
 
-	# KOVO Aviatsya Komandovaniya -- Kiev
-	202 = {
-		# 17ya Istrebitel'nye Aviabrigada
-		fighter_equipment_1 = {
-			owner = "RUS" 
-			amount = 94
-		}
-		# 1ya Bombardirovochnye Aviabrigada
-		# 10ya Bombardirovochnye Aviabrigada
-		tac_bomber_equipment_0 =  {
-			owner = "RUS" 
-			amount = 120
-		}
-	}
-
 	# Dal'nevostochniy Aviatsya Komandovaniya -- Vladivostock	
 	408 = {
 		# 12ya Istrebitel'nye Aviabrigada
@@ -1138,14 +874,6 @@ air_wings = {
 	# VVS - KBF Aviatsya Komandovaniya -- Leningrad
 	195 = {
 		# 8ya VMF Aviabrigada
-		nav_bomber_equipment_1 = {
-			owner = "RUS" 
-			amount = 54
-		}
-	}
-	# VVS - BSF Aviatsya Komandovaniya -- Sevastopol
-	137 = {
-		# 4ya VMF Aviabrigada
 		nav_bomber_equipment_1 = {
 			owner = "RUS" 
 			amount = 54
