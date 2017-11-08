@@ -5,8 +5,6 @@ state = {
 
 	history={
 		owner = TAG
-		add_core_of=NFA
-		add_core_of=MRT
 		buildings={
 			infrastructure=1
 		}

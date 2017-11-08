@@ -11,15 +11,15 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = BLA
 		buildings = {
-			infrastructure = 4
-	industrial_complex = 2
+		infrastructure = 4
+		industrial_complex = 2
 		}
 		victory_points = {
 			11887 1
 		}
-		add_core_of = TAG
+		add_core_of = BLA
 	}
 
 	provinces={

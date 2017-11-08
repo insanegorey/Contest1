@@ -4,7 +4,7 @@ state = {
 	name="STATE_544" #Mozambique
 	manpower = 2767300
 	
-	state_category = hyvin
+	state_category = rural
 	
 	history={
 		owner = TAG

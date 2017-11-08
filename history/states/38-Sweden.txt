@@ -7,7 +7,7 @@ state = {
 		steel=62
 	}
 	
-	state_category = hyvin
+	state_category = rural
 	
 
 	history={

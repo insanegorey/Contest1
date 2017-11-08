@@ -5,7 +5,6 @@ state = {
 
 	history={
 		owner = TAG
-		add_core_of=ERT
 		buildings={
 			infrastructure=2
 		}

@@ -140,5 +140,8 @@ TAM = "countries/Tambov.txt"
 #
 ### Tsar Pixel
 ARA = "countries/Aragon.txt"
+### Londinium
+BLA = "countries/BulgariaAlbania.txt"
+BAA = "countries/BulgarianAfrica.txt"
 ###
 LOL = "countries/LaughingOutLoud"

@@ -8,19 +8,19 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
+		owner = BLA
 		victory_points = {
 			9783 5
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 3
+			industrial_complex = 2
 
 			9902 = {
-				naval_base = 1
+				naval_base = 3
 			}
 		}
-		add_core_of = TAG
+		add_core_of = BLA
 	}
 
 	provinces={

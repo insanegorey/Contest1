@@ -7,8 +7,8 @@ state = {
 	
 	
 	history={
-		owner = TAG
-		add_core_of = TAG
+		owner = BAA
+		add_core_of = BAA
 		buildings = {
 			infrastructure = 1
 		}

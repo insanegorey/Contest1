@@ -4,7 +4,7 @@ state = {
 	name="STATE_153"
 	manpower = 348985
 	
-	state_category = "hyvin"
+	state_category = rural
 
 	history={
 		owner = ALP

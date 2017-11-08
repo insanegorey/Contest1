@@ -124,3 +124,13 @@ PHO = {
 	color = rgb { 66  94  212 }
 	color_ui = rgb { 66  94  212 }
 }
+
+BLA = {
+	color = rgb { 48 94 65 }
+	color_ui = rgb { 48 94 65 }
+}
+
+BAA = {
+	color = rgb { 48 94 65 }
+	color_ui = rgb { 48 94 65 }
+}

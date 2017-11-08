@@ -4,14 +4,15 @@ state = {
 	name="STATE_44"
 	manpower = 750035
 	resources={
-		aluminium=3
-		chromium=3
+		aluminium=8
+		chromium=8
+		oil = 4
 	}
 	
 	state_category = town
 	
 	history={
-		owner = TAG
+		owner = BLA
 		victory_points = {
 			9914 5
 		}
@@ -24,7 +25,7 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = TAG
+		add_core_of = BLA
 	}
 
 	provinces={

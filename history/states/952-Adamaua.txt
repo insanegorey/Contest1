@@ -5,8 +5,6 @@ state = {
 
 	history={
 		owner = TAG
-		add_core_of=MAF
-		add_core_of=KAM
 		victory_points={
 			2080 1
 		}
