@@ -94,6 +94,15 @@ bookmarks = {
 
 		# minors from DLC ####
 
+		"UKR"={
+			minor = no
+			history = "UKR_GATHERING_STORM_DESC"
+			ideology = national_populist
+			ideas = {
+				UKR_white_guard
+			}
+		}
+
 			focuses = {
 				FRA_being_loyal_to_venice
 				FRA_cede_territory_to_superior_venetian_masterrace

@@ -57,8 +57,8 @@ FIN = {
 	color_ui = rgb { 255 255 255 }
 }
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }	
+	color = rgb { 30 80 110 }
+	color_ui = rgb { 30 80 110 }	
 }
 AZR = {
 	color = rgb { 69  151  49 }
