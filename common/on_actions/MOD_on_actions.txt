@@ -4,6 +4,9 @@ on_actions = {
 			RUS = {
 				country_event = { id = RUS_political.1 }
 			}
+			BLA = {
+				country_event = { id = BLA_general.1 }
+			}
 		}
 	}
 }
