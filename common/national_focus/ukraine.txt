@@ -15,9 +15,9 @@ focus_tree = {
 	focus = {
 		id = UKR_political_change
 		icon = GFX_focus_UKR_political_change
-		prerequisite = {
-		    focus = UKR_negotiations
-		}
+		#prerequisite = {
+		#    focus = UKR_negotiations
+		#}
 		x = 8
 		y = 1
 		cost = 5
@@ -148,21 +148,21 @@ focus_tree = {
 		completion_reward = {
 		    add_political_power = 50
 		    add_popularity = {
-				ideology = fascism
+				ideology = national_populist
 				popularity = 0.15
 			}
 			add_popularity = {
-				ideology = communism
+				ideology = totalist
 				popularity = 0.10
 			}
 			add_popularity = {
-				ideology = monarchism
-				popularity = -0.15
+				ideology = authoritarian_democrat
+				popularity = -0.25
 			}
-			add_popularity = {
-				ideology = neutrality
-				popularity = -0.10
-			}
+			#add_popularity = {
+			#	ideology = neutrality
+			#	popularity = -0.10
+			#}
 			add_ideas = UKR_class_divide
 		}
 	}
@@ -251,9 +251,9 @@ focus_tree = {
 	focus = {
 		id = UKR_foreign_ministry
 		icon = GFX_focus_UKR_foreign_ministry
-		prerequisite = {
-		    focus = UKR_negotiations
-		}
+		#prerequisite = {
+		#    focus = UKR_negotiations
+		#}
 		available = {
 		    has_completed_focus = UKR_political_change
 		}

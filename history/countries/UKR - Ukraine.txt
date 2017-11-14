@@ -84,7 +84,7 @@ add_ideas = {
 
 create_country_leader = {
 	name = "Stepan Bandera"
-	picture = "Portraits_Ukraine_Stepan_Bandera.dds"
+	picture = "Portrait_Ukraine_Stepan_Bandera.dds"
 	ideology = national_populist_subtype
 	traits = {
 		

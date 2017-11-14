@@ -1,4 +1,4 @@
-capital = 446
+﻿capital = 446
 
 oob = ""
 
@@ -66,9 +66,9 @@ set_politics = {
 create_country_leader = { # Chancellor Themistoklis Sophoulis
 	name = "Themistoklis Sophoulis"
 	desc = "GTU_them_soph_desc"
-	picture = "Portrait_England_General_Campbell.tga"
+	picture = "gfx/leaders/GRE/Portrait_GRE_Themistoklis_Sophoulis.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_democrat
+	ideology = authoritarian_democrat_subtype
 	traits = { }
 }
 add_ideas = {

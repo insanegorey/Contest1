@@ -8,8 +8,6 @@ state = {
 		add_core_of=ETH
 		buildings={
 			infrastructure=3
-			arms_factory = 1
-			industrial_complex = 1
 		}
 		victory_points = {
 			1984 1

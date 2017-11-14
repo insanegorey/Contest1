@@ -126,7 +126,6 @@ add_namespace = {
 
 create_corps_commander = {
 	name = "Georgy Zhukov"
-	id = 410
 		picture = "Portrait_Soviet_Gregory_Zhukov.dds"
 	traits = { winter_specialist panzer_leader  }
 	skill = 5
@@ -136,7 +135,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Aleksandr Vasilevsky"
-	id = 407
 		picture = "Portrait_Soviet_Aleksandr_Vasilevsky.dds"
 	traits = { panzer_leader  }
 	skill = 4
@@ -162,7 +160,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Ivan Konev"
-	id = 408
 		picture = "Portrait_Soviet_Ivan_Konev.dds"
 	traits = { panzer_leader  }
 	skill = 5
@@ -173,7 +170,6 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Semyon Timoshenko"
-	id = 404
 		picture = "Portrait_Soviet_Semyon_Timoshenko.dds"
 	traits = {  }
 	skill = 3
@@ -184,7 +180,6 @@ create_corps_commander = {
 
 create_field_marshal = {
 	name = "Kliment Voroshilov"
-	id = 405
 		picture = "Portrait_Soviet_Kliment_Voroshilov.dds"
 	traits = { old_guard  }
 	skill = 1
@@ -195,7 +190,6 @@ create_field_marshal = {
 
 create_field_marshal = {
 	name = "Mikhail Tukhachevsky"
-	id = 401
 		picture = "Portrait_Soviet_Mikhail_Tukhachevsky.dds"
 	traits = { offensive_doctrine }
 	skill = 4
@@ -317,7 +311,6 @@ create_corps_commander = {
 	name = "Andrey Vlasov"
 		picture = "Portrait_Soviet_Andrey_Vlasov.dds"
 	traits = { winter_specialist }
-	id = 412
 	skill = 3
 	
 }
@@ -424,7 +417,6 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Sergey Gorshkov"
-	id = 411
 		picture = "Portrait_Soviet_Sergey_Gorshkov.dds"
 	traits = {  }
 	skill = 3
@@ -433,7 +425,6 @@ create_navy_leader = {
 # Arrested in '41
 create_navy_leader = {
 	name = "Gordey Levchenko"
-	id = 406
 		picture = "Portrait_Soviet_Gordey_Levchenko.dds"
 	traits = {  }
 	skill = 2
@@ -441,7 +432,6 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Arseniy Golovko"
-	id = 409
 		picture = "Portrait_Soviet_Arseniy_Golovko.dds"
 	traits = { spotter }
 	skill = 4
@@ -449,7 +439,6 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Vladimir Kasatonov"
-	id = 403
 		picture = "Portrait_Soviet_Vladimir_Kasatonov.dds"
 	traits = { seawolf }
 	skill = 2

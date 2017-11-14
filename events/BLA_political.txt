@@ -1,4 +1,4 @@
-add_namespace = BLA_political
+﻿add_namespace = BLA_political
 
 #Albania wants more influence
 country_event = {

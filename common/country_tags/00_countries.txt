@@ -119,7 +119,7 @@ STL = "countries/Scotland.txt"
 IRL = "countries/Ireland.txt"
 #
 ### Gorey
-ALP = ".txt" # Catholic Alpine Union
+ALP = "countries/AlpineFed.txt" # Catholic Alpine Union
 #
 ### Miah
 GTU = "countries/HellenicFederation/EastMedFed.txt" # Hellenic Federation
@@ -140,8 +140,10 @@ TAM = "countries/Tambov.txt"
 #
 ### Tsar Pixel
 ARA = "countries/Aragon.txt"
+#
 ### Londinium
 BLA = "countries/BulgariaAlbania.txt"
 BAA = "countries/BulgarianAfrica.txt"
+#
 ###
-LOL = "countries/LaughingOutLoud"
+LOL = "countries/LaughingOutLoud.txt"

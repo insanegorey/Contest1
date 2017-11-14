@@ -1,4 +1,4 @@
-﻿focus_tree = {
+focus_tree = {
     id = uk_focus
 
     country = {
@@ -22,18 +22,18 @@
 		}
 	
 		mutually_exclusive = {
-			ENG_solerule
-			ENG_blackshirts
+			focus = ENG_solerule
+			focus = ENG_blackshirts
 		}
 	
-		x = 0
-		y = 5
+		x = 5
+		y = 0
 	
 		completion_reward = {
 			# Targets every nation in the world that meets the condition in limit
-			every_other_nation = {
+			every_country = {
 				limit = {
-					is_puppet_of = ENG 
+					is_subject_of = ENG 
 					OR = {
 						tag = STL
 						tag = IRE
@@ -58,23 +58,22 @@
 		}
 	
 		mutually_exclusive = {
-			ENG_homerule
-			ENG_blackshirts
+			focus = ENG_homerule
+			focus = ENG_blackshirts
 		}
 	
-		x = 0
-		y = 3
+		x = 3
+		y = 0
 	
 		completion_reward = {
 			# Targets every nation in the world that meets the condition in limit
-			every_other_country = {
+			every_country = {
 				limit = {
-					puppet_of = ENG
+					is_subject_of = ENG
 				}
 				OVERLORD = { 
 					annex_country = { 
-						target = { FROM 
-						}
+						target = PREV
 					}
 				}
 			}
@@ -91,12 +90,12 @@
 		}
 	
 		mutually_exclusive = {
-			ENG_homerule
-			ENG_solerule
+			focus = ENG_homerule
+			focus = ENG_solerule
 		}
 	
-		x = 0
-		y = 7
+		x = 7
+		y = 0
 	
 		completion_reward = {
 			set_political_party = { ideology = paternal_autocrat popularity = 0.40 } 

@@ -54,8 +54,8 @@ frenchnews.4.t:0 "Émile Bombelles Wins the French Election"
 frenchnews.4.d:0 "Émile, the syndicalist candidate has just emerged victorious as the 1st President of the French Republic, the world is stunned by the sight of a syndicalist victory in france."
 frenchnews.4.a:0 "What will syndicalism do to our continent?"
 frenchnews.5.t:0 "Millitary Coup d'etat in France!"
-frenchnews:5.d:0 "In an act that shocked everyone, The French Millitary led by Philippe Petain stormed the government buildings and seized the control of the state. The suspected reason for this coup d'etat is that the millitary suspected a syndicalist victory which would mean severely shrinking the millitary. But whatever their intentions, they have occupation of the entire state. And Philipe Petain now has Dictatorial Powers."
-frenchnews:5.a:0 "rip"
+frenchnews.5.d:0 "In an act that shocked everyone, The French Millitary led by Philippe Petain stormed the government buildings and seized the control of the state. The suspected reason for this coup d'etat is that the millitary suspected a syndicalist victory which would mean severely shrinking the millitary. But whatever their intentions, they have occupation of the entire state. And Philipe Petain now has Dictatorial Powers."
+frenchnews.5.a:0 "rip"
 frenchnews.999.t:0 "Norman Crowned Emperor of the TAG"
 frenchnews.999.d:0 "Norman Has recently been crowned emperor of the TAG in kabul."
 frenchnews.999.a:0 "WHAT DID YOU DO KEBBBB"
@@ -100,6 +100,6 @@ FRA_parti_communiste:0 "PCF"
 FRA_parti_communiste_long:0 "Parti Communiste Français"
 
  
- ##################################################
- #French Focus Localisation
- ##################################################
+##################################################
+#French Focus Localisation
+##################################################

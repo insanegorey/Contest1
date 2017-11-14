@@ -1,4 +1,4 @@
-division_template = {
+﻿division_template = {
 	name = "Infantry"
 
 	regiments = {
@@ -65,7 +65,7 @@ units = {
 	}
 	division= {	
 		name = "7. Infantry"
-		location = ^1149
+		location = 1149
 		division_template = "Infantry"
 		start_experience_factor = 0.1
 	}
@@ -94,17 +94,17 @@ units = {
 		start_experience_factor = 0.3
 	}
 
-#I had to temporarily remove the navy, because for some reason our mod crashes when you select ships.	
-#	navy = {				
-#		name = "Black Sea Fleet"			
-#		base = 9783
-#		location = 9783
-#		ship = { name = "Varna" definition = battle_cruiser_equipment = { battle_cruiser = { amount = 1 owner = BLA } } }
-#		ship = { name = "Destroyer I" definition = destroyer equipment = { destroyer = { amount = 1 owner = BLA } } }
-#		ship = { name = "Destroyer II" definition = destroyer equipment = { destroyer = { amount = 1 owner = BLA } } }
-#		ship = { name = "Destroyer III" definition = destroyer equipment = { destroyer = { amount = 1 owner = BLA } } }
-#		ship = { name = "Destroyer IV" definition = destroyer equipment = { destroyer = { amount = 1 owner = BLA } } }
-#	}	
+#This fleet was coded incorrectly, I corrected it - Killeritch
+	navy = {				
+		name = "Black Sea Fleet"			
+		base = 9783
+		location = 9783
+		ship = { name = "Varna" definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = BLA } } }
+		ship = { name = "Destroyer I" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLA } } }
+		ship = { name = "Destroyer II" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLA } } }
+		ship = { name = "Destroyer III" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLA } } }
+		ship = { name = "Destroyer IV" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLA } } }
+	}	
 }
 
 air_wings = {

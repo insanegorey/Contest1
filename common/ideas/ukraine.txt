@@ -42,10 +42,10 @@ ideas = {
 			modifier = {
 			    unity_factor = -0.05
 			    political_power_gain = 0.05
-			    communism_drift = 0.01
-			    fascism_drift = 0.01
-			    monarchism_drift = -0.01
-			    neutrality_drift = -0.01
+			    totalist_drift = 0.01
+			    national_populist_drift = 0.01
+			    authoritarian_democrat_drift = -0.02
+			    #neutrality_drift = -0.01
 			}
 
 		}

@@ -4,7 +4,7 @@ oob = "ALP_1936"
 
 set_technology = {
 	### General ###
-	shipbuild_basics = 1
+	#shipbuild_basics = 1 #not a real tech
 	
 	### Navy ###
 	early_submarine = 1

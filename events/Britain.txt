@@ -1,4 +1,4 @@
-﻿namespace = england
+﻿add_namespace = england
 
 country_event = {
 	id = england.1 #event ID

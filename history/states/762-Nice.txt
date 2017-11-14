@@ -16,7 +16,7 @@ state = {
 			9909 5
 		}
 		buildings = {
-			inTAGstructure = 4
+			infrastructure = 4
 		9909 = {
 				naval_base = 2
 			}

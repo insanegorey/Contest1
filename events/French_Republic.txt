@@ -122,6 +122,7 @@ country_event = {
 #French Noos
 #################################################
 
+add_namespace = frenchnews
 
 news_event = {
     id = frenchnews.1
@@ -256,7 +257,7 @@ news_event = {
 
 ##########################################
 
-
+add_namespace = norman
 
 country_event = {
     id = norman.1

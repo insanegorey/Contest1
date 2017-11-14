@@ -1,4 +1,4 @@
-capital = 448
+﻿capital = 448
 
 OOB = "BAA_1936" #Not even sure if I will add one, but let me reserve the filename anyways
 

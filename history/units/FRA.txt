@@ -1,21 +1,21 @@
 ﻿########
 #Templates
 ########
-division_template = {
-	name = "Militia Division"			# Militia Division
-
-	regiments = {
-		militia = { x = 0 y = 0 }
-		militia = { x = 0 y = 1 }
-		militia = { x = 0 y = 2 }
-		militia = { x = 1 y = 0 }
-		militia = { x = 1 y = 1 }
-		militia = { x = 1 y = 2 }
-		militia = { x = 2 y = 0 }
-		militia = { x = 2 y = 1 }
-		militia = { x = 2 y = 2 }
-	}
-}
+#division_template = {
+#	name = "Militia Division"			# Militia Division
+#
+#	regiments = {
+#		militia = { x = 0 y = 0 }
+#		militia = { x = 0 y = 1 }
+#		militia = { x = 0 y = 2 }
+#		militia = { x = 1 y = 0 }
+#		militia = { x = 1 y = 1 }
+#		militia = { x = 1 y = 2 }
+#		militia = { x = 2 y = 0 }
+#		militia = { x = 2 y = 1 }
+#		militia = { x = 2 y = 2 }
+#	}
+#} #militia isn't a thing in this mod, stop copy-pasting everything from another mod :P - Killeritch
 division_template = {
 	name = "Division d'Infanterie Prolétarienne"		
 	
@@ -577,33 +577,33 @@ navy = {
 		base = 3552
 		location = 3552
 		
-		ship = { name = "Internationale" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Charles Fourier" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
+		ship = { name = "Internationale" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Charles Fourier" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Jean-Sylvain Bailly" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Jean-Lous Pindy" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Saint-Etienne" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Rennes" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Saint-Nazaire" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FRA } } }
-		ship = { name = "Algérien" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Annamite" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Arabe" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Bambara" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Hova" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Kabyle" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Marocain" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Sakalave" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Sénégalais" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Somali" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Tonkinois" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Bourrasque" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Cyclone" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Mistral" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Orage" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Ouragan" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Simoun" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Sirocco" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Tempête" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Tornade" definition = destroyer equipment = { destroyer_pre = { amount = 1 owner = FRA } } }
+		ship = { name = "Algérien" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Annamite" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Arabe" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Bambara" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Hova" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Kabyle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Marocain" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Sakalave" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Sénégalais" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Somali" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Tonkinois" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Bourrasque" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Cyclone" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Mistral" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Orage" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Ouragan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Simoun" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Sirocco" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Tempête" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Tornade" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FRA } } }
 	}	
 navy = {
 		name = "Flotte de la Commune"			
@@ -611,16 +611,16 @@ navy = {
 		location = 911	
 		ship = { name = "Robespierre" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Marat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
-		ship = { name = "Normandie" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Flandre" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Gascongne" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Languedoc" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Bearn" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Lyon" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Duquesne" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Lille" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Tourville" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
-		ship = { name = "Georges Sorel" definition = battleship equipment = { battleship_pre = { amount = 1 owner = FRA } } }
+		ship = { name = "Normandie" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Flandre" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Gascongne" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Languedoc" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Bearn" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Lyon" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Duquesne" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Lille" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Tourville" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
+		ship = { name = "Georges Sorel" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FRA } } }
 		ship = { name = "Comand Teste" definition = carrier equipment = { carrier_1 = { amount = 1 owner = FRA } }
 			air_wings = {
 				cv_fighter_equipment_0 =  { owner = "FRA" amount = 25 }

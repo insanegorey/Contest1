@@ -1,4 +1,4 @@
-capital = 48
+﻿capital = 48
 
 OOB = "BLA_1936"
 
@@ -103,7 +103,9 @@ create_field_marshal = {
 create_corps_commander = {
 	name = "Ivan Rysinov"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
-	traits = { # }
+	traits = {
+		#
+	}
 	skill = 4
 }
 

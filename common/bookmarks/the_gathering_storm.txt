@@ -25,16 +25,6 @@ bookmarks = {
 				
 			}
 		}
-		"AUS"={
-			history = "AUS_GATHERING_STORM_DESC"
-			ideology = social_conservative
-			ideas = {
-				
-			}
-			focuses = {
-				
-			}
-		}
 		"ITA"={
 			history = "ITA_GATHERING_STORM_DESC"
 			ideology = social_conservative
@@ -68,7 +58,7 @@ bookmarks = {
 		}
 		"GTU"={
 			history = "GTU_GATHERING_STORM_DESC"
-			ideology = # idk m8
+			ideology = authoritarian_democrat # idk m8
 			ideas = {
 				
 			}	
@@ -86,6 +76,17 @@ bookmarks = {
 				#
 			}	
 		}
+		"UKR"={
+			minor = no
+			history = "UKR_GATHERING_STORM_DESC"
+			ideology = national_populist
+			ideas = {
+				white_guard
+			}
+			focuses = {
+				#
+			}
+		}
 
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
@@ -93,21 +94,17 @@ bookmarks = {
 
 
 		# minors from DLC ####
-
-		"UKR"={
-			minor = no
-			history = "UKR_GATHERING_STORM_DESC"
-			ideology = national_populist
+		
+		"BLA"={
+			minor = yes
+			history = "BLA_GATHERING_STORM_DESC"
+			ideology = authoritarian_democrat
 			ideas = {
-				UKR_white_guard
-			}
-		}
-
+				
+			}	
 			focuses = {
-				FRA_being_loyal_to_venice
-				FRA_cede_territory_to_superior_venetian_masterrace
-				FRA_become_subject_of_venice
-			}
+				
+			}			
 		}
 		
 

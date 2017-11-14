@@ -5,8 +5,7 @@ state = {
 
 	history={
 		owner = TAG
-		add_core_of=ENG
-		add_core_of=SCT
+		add_core_of=STL
 		buildings={
 			infrastructure=3
 			6196={

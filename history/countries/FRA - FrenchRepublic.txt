@@ -1,4 +1,4 @@
-﻿capital = 9523
+﻿capital = 16
 
 oob = "FRA"
 
@@ -8,7 +8,7 @@ set_research_slots = 4
 set_technology = {
 	### MOD ###
 	### General ###
-	shipbuild_basics = 1
+	#shipbuild_basics = 1 #not a technology in this mod
 	
 	### Navy ###
 	early_submarine = 1
@@ -169,8 +169,8 @@ create_field_marshal = {
 	portrait_path = "gfx/leaders/FRA/FRA_Donald_J_Trump.tga"
 	traits = {
 		offensive_doctrine
-		fortress_buster
-		trait_engineer
+		#fortress_buster #field marshals can't have this trait, it's generals only
+		#trait_engineer #field marshals can't have this trait, it's generals only
 	}
 	skill = 4
 	id = 200

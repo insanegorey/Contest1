@@ -1,8 +1,10 @@
 ﻿######################
 #KEBB NOOS
-######################t
+######################
 
 add_namespace = worldnews
+
+# wtf is this Kaiserreich shit doing here - Killeritch
 
 # President Garner
 news_event = {
@@ -15,9 +17,9 @@ news_event = {
 	
 	is_triggered_only = yes
 
-	trigger = {
-		wants_world_news = yes
-	}
+	#trigger = {
+	#	wants_world_news = yes
+	#}
 
 	option = {
 		name = worldnews.97.a
@@ -35,9 +37,9 @@ news_event = {
 
 	is_triggered_only = yes
 
-	trigger = {
-		wants_world_news = yes
-	}
+	#trigger = {
+	#	wants_world_news = yes
+	#}
 
 	option = {
 		name = worldnews.98.a
